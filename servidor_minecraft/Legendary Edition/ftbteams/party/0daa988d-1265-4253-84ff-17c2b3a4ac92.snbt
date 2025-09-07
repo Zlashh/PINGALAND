@@ -1,0 +1,17 @@
+{
+	id: "0daa988d-1265-4253-84ff-17c2b3a4ac92"
+	type: "party"
+	owner: "6d1668b0-8db7-31d9-b3d8-ffbfe57e271a"
+	ranks: {
+		6d1668b0-8db7-31d9-b3d8-ffbfe57e271a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LUANA FULL SET"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF409"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1757216037967L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"G2_PsycoH\"}]}" }]
+	extra: { }
+}

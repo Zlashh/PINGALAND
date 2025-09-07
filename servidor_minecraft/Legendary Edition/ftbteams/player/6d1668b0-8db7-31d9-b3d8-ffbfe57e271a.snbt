@@ -1,0 +1,15 @@
+{
+	id: "6d1668b0-8db7-31d9-b3d8-ffbfe57e271a"
+	type: "player"
+	player_name: "G2_PsycoH"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "G2_PsycoH"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
