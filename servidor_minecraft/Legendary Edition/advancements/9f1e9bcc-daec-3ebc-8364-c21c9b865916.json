@@ -7107,6 +7107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-07 20:12:59 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/silver_basic_shield": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
@@ -7122,6 +7128,12 @@
   "spartanweaponry:recipes/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-09-07 20:04:49 +0000"
     },
     "done": true
   },
@@ -7191,6 +7203,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-09-07 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-09-07 20:12:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_rapier": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
@@ -7200,6 +7224,12 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-09-07 20:04:49 +0000"
     },
     "done": true
   },
@@ -7233,6 +7263,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-09-07 20:04:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-09-07 19:51:14 +0000"
@@ -7245,9 +7281,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_coal_charcoal": "2025-09-07 20:04:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-09-07 20:12:59 +0000"
     },
     "done": true
   },
@@ -7272,6 +7320,18 @@
   "spartanweaponry:recipes/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "serene_shrubbery:lupine_lover": {
+    "criteria": {
+      "lupine_lover_0": "2025-09-07 20:11:12 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-09-07 20:12:59 +0000"
     },
     "done": true
   },
@@ -7350,6 +7410,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-09-07 20:12:59 +0000"
     },
     "done": true
   },
