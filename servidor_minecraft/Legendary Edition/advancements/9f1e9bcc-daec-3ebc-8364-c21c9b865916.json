@@ -7146,6 +7146,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-09-07 20:48:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
@@ -7170,9 +7176,21 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-09-07 20:54:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-09-07 20:48:05 +0000"
     },
     "done": true
   },
@@ -7296,6 +7314,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-09-07 20:48:05 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
     "criteria": {
       "has_twigs": "2025-09-07 20:37:17 +0000"
@@ -7350,6 +7374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-07 20:48:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2025-09-07 19:51:14 +0000"
@@ -7359,6 +7389,12 @@
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-09-07 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-07 20:48:05 +0000"
     },
     "done": true
   },
@@ -7464,6 +7500,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/charcoal_from_block": {
+    "criteria": {
+      "has_charcoal_block": "2025-09-07 20:48:39 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
     "criteria": {
       "has_item": "2025-09-07 20:31:44 +0000"
@@ -7485,6 +7527,12 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-09-07 20:48:05 +0000"
     },
     "done": true
   },
