@@ -5404,6 +5404,54 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-09-07 04:05:26 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/food/healing_herbs": {
+    "criteria": {
+      "has_flower": "2025-09-07 04:05:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-09-07 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-09-07 04:10:47 +0000"
+    },
+    "done": true
+  },
+  "legendary_additions:recipes/decorations/tribal_torch": {
+    "criteria": {
+      "has_torch": "2025-09-07 04:10:47 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-09-07 04:10:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-09-07 04:10:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-09-07 04:10:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_counter": {
     "criteria": {
       "has_spruce_counter": "2025-09-07 04:12:18 +0000"
@@ -5434,12 +5482,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-09-07 04:12:18 +0000"
@@ -5458,12 +5500,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/black_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
@@ -5473,12 +5509,6 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
     },
     "done": true
   },
@@ -5500,21 +5530,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
     },
     "done": true
   },
@@ -5530,24 +5548,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2025-09-07 04:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/chandelier": {
-    "criteria": {
-      "has_torch": "2025-09-07 04:10:47 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
@@ -5560,21 +5560,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-09-07 04:16:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
     },
     "done": true
   },
@@ -5587,12 +5575,6 @@
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_item": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "legendary_additions:recipes/decorations/tribal_torch": {
-    "criteria": {
-      "has_torch": "2025-09-07 04:10:47 +0000"
     },
     "done": true
   },
@@ -5638,18 +5620,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
-    "criteria": {
-      "has_purple_lupine": "2025-09-07 04:05:26 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
@@ -5662,27 +5632,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2025-09-07 04:34:51 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/quark/sign_post_blossom": {
-    "criteria": {
-      "has_item": "2025-09-07 04:19:17 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
-    "criteria": {
-      "has_torch": "2025-09-07 04:10:47 +0000"
     },
     "done": true
   },
@@ -5695,24 +5647,6 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
     },
     "done": true
   },
@@ -5740,12 +5674,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-09-07 04:34:53 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
@@ -5758,27 +5686,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
-    "criteria": {
-      "has_torch": "2025-09-07 04:10:47 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-09-07 04:25:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/food/healing_herbs": {
-    "criteria": {
-      "has_flower": "2025-09-07 04:05:26 +0000"
     },
     "done": true
   },
@@ -5791,12 +5701,6 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
     },
     "done": true
   },
@@ -5824,27 +5728,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
     },
     "done": true
   },
@@ -5860,27 +5746,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_torch": "2025-09-07 04:10:47 +0000"
     },
     "done": true
   },
@@ -5890,33 +5758,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-09-07 04:16:04 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-09-07 04:12:18 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-09-07 04:12:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-09-07 04:16:04 +0000"
     },
     "done": true
   },
@@ -5962,18 +5812,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
-    "criteria": {
-      "has_item": "2025-09-07 04:34:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-07 04:29:05 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-09-07 04:12:18 +0000"
@@ -6001,6 +5839,174 @@
   "valhelsia_furniture:recipes/decorations/blue_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-09-07 04:12:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-09-07 04:16:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-09-07 04:16:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-09-07 04:16:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/quark/sign_post_blossom": {
+    "criteria": {
+      "has_item": "2025-09-07 04:19:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-09-07 04:25:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-07 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-07 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-09-07 04:34:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-09-07 04:34:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-09-07 19:31:48 +0000"
     },
     "done": true
   },
