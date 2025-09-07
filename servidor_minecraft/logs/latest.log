@@ -5401,3 +5401,14 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 20:46:13.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-676, y=73, z=212} BlockPos{x=-677, y=72, z=212}
 [07Sep2025 20:56:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was doomed to fall
 [07Sep2025 20:56:49.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 20:59:51.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Bison
+[07Sep2025 20:59:53.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 21:02:08.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [The Parrots and the Bats]
+[07Sep2025 21:07:53.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[07Sep2025 21:07:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 21:08:16.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[07Sep2025 21:08:17.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 21:08:40.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[07Sep2025 21:08:42.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 21:08:59.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[07Sep2025 21:09:01.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
