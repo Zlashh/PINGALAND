@@ -3541,6 +3541,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-09-07 21:16:29 +0000",
       "rabbit_stew": "2025-09-07 03:05:20 +0000",
       "sweet_berries": "2025-09-07 03:29:28 +0000",
       "apple": "2025-09-07 03:05:17 +0000",
@@ -7051,6 +7052,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-09-07 21:24:31 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-09-07 19:51:14 +0000"
@@ -7132,6 +7139,12 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-09-07 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-07 21:24:31 +0000"
     },
     "done": true
   },
@@ -7477,6 +7490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-07 21:24:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_katana": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
@@ -7492,6 +7511,12 @@
   "legendarysurvivaloverhaul:recipes/food/heart_container": {
     "criteria": {
       "has_heart_fragment": "2025-09-07 20:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-07 21:24:31 +0000"
     },
     "done": true
   },
@@ -7534,6 +7559,12 @@
   "valhelsia_furniture:recipes/decorations/green_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-09-07 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-07 21:24:31 +0000"
     },
     "done": true
   },
@@ -7804,6 +7835,12 @@
   "handcrafted:recipes/misc/dark_oak_corner_trim": {
     "criteria": {
       "has_dark_oak_corner_trim": "2025-09-07 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-07 21:24:31 +0000"
     },
     "done": true
   },
