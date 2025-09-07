@@ -5273,6 +5273,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2025-09-07 19:51:07 +0000",
       "minecraft:husk": "2025-09-07 03:34:13 +0000",
       "minecraft:zombie": "2025-09-07 04:04:35 +0000",
       "minecraft:zombie_villager": "2025-09-07 04:04:53 +0000"
@@ -6662,6 +6663,162 @@
     },
     "done": true
   },
+  "legendarysurvivaloverhaul:recipes/misc/cold_string_from_sewing_string_ice_fern_leaf": {
+    "criteria": {
+      "has_sewing_table": "2025-09-07 19:28:29 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/warm_string_from_sewing_string_sun_fern_leaf": {
+    "criteria": {
+      "has_sewing_table": "2025-09-07 19:28:29 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-09-07 19:28:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-09-07 19:30:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-09-07 19:30:38 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_bricks_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_tile_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/misc/mud_ball_from_dirt": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_brick_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/dirt_tile_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_brick_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_tiles_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_tile_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_bricks": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/dirt_brick_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-07 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-07 19:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-09-07 19:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-07 19:34:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-09-07 19:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-09-07 19:37:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-09-07 19:43:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-09-07 19:43:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-09-07 19:43:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_battle_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
@@ -6686,33 +6843,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-09-07 19:34:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/end_stone_smelter": {
-    "criteria": {
-      "has_tag_c_furnaces": "2025-09-07 19:37:41 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_bricks_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
     },
     "done": true
   },
@@ -6734,27 +6873,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-09-07 19:43:22 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-09-07 19:37:41 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_tile_stairs_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
     },
     "done": true
   },
@@ -6806,12 +6927,6 @@
     },
     "done": true
   },
-  "environmental:recipes/misc/mud_ball_from_dirt": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_saber": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
@@ -6830,12 +6945,6 @@
     },
     "done": true
   },
-  "environmental:recipes/building_blocks/dirt_brick_slab_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-09-07 19:46:21 +0000"
@@ -6845,12 +6954,6 @@
   "spartanweaponry:recipes/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/misc/cold_string_from_sewing_string_ice_fern_leaf": {
-    "criteria": {
-      "has_sewing_table": "2025-09-07 19:28:29 +0000"
     },
     "done": true
   },
@@ -6866,12 +6969,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-09-07 19:30:38 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
@@ -6881,30 +6978,6 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2025-09-07 19:31:47 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/decorations/dirt_tile_wall_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_brick_stairs_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-09-07 19:34:49 +0000"
     },
     "done": true
   },
@@ -6920,30 +6993,6 @@
     },
     "done": true
   },
-  "environmental:recipes/building_blocks/dirt_tiles_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2025-09-07 19:28:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flower_box": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_tile_slab_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
@@ -6956,45 +7005,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-09-07 19:43:22 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/misc/warm_string_from_sewing_string_sun_fern_leaf": {
-    "criteria": {
-      "has_sewing_table": "2025-09-07 19:28:29 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-09-07 19:43:22 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2025-09-07 19:46:21 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/building_blocks/dirt_bricks": {
-    "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
     },
     "done": true
   },
@@ -7016,21 +7035,345 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
+  "spartanshields:recipes/silver_tower_shield": {
     "criteria": {
-      "has_item": "2025-09-07 19:30:38 +0000"
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
-      "has_raw_copper": "2025-09-07 19:34:49 +0000"
+      "has_gunpowder": "2025-09-07 19:51:14 +0000"
     },
     "done": true
   },
-  "environmental:recipes/decorations/dirt_brick_wall_from_dirt_stonecutting": {
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_stool": {
     "criteria": {
-      "has_dirt": "2025-09-07 19:31:47 +0000"
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_javelin": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_spear": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_warhammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_glaive": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/silver_basic_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_scythe": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battle_hammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_boomerang": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_heavy_crossbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_halberd": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_rapier": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_katana": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_pike": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_saber": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battleaxe": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_greatsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_tomahawk": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_parrying_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_flanged_mace": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_quarterstaff": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_throwing_knife": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_lance": {
+    "criteria": {
+      "has_silver_ingot": "2025-09-07 19:48:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-09-07 19:51:14 +0000"
     },
     "done": true
   },
