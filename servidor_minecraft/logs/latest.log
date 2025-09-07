@@ -5379,3 +5379,23 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 20:38:27.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G2_PsycoH lost connection: Disconnected
 [07Sep2025 20:38:27.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G2_PsycoH left the game
 [07Sep2025 20:38:27.164] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client G2_PsycoH
+[07Sep2025 20:45:52.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-670, y=73, z=202} BlockPos{x=-670, y=72, z=203}
+[07Sep2025 20:45:54.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-674, y=73, z=209} BlockPos{x=-674, y=72, z=208}
+[07Sep2025 20:45:55.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-673, y=73, z=211} BlockPos{x=-673, y=72, z=211}
+[07Sep2025 20:45:55.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-673, y=73, z=211} BlockPos{x=-673, y=72, z=211}
+[07Sep2025 20:45:55.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-673, y=73, z=213} BlockPos{x=-673, y=72, z=212}
+[07Sep2025 20:45:55.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-673, y=73, z=215} BlockPos{x=-673, y=72, z=214}
+[07Sep2025 20:45:57.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-676, y=73, z=220} BlockPos{x=-677, y=72, z=221}
+[07Sep2025 20:45:57.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-677, y=73, z=222} BlockPos{x=-677, y=72, z=222}
+[07Sep2025 20:45:57.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-677, y=73, z=222} BlockPos{x=-677, y=72, z=222}
+[07Sep2025 20:45:57.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-677, y=73, z=224} BlockPos{x=-677, y=72, z=223}
+[07Sep2025 20:45:58.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-677, y=73, z=226} BlockPos{x=-677, y=72, z=225}
+[07Sep2025 20:45:58.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-678, y=73, z=226} BlockPos{x=-678, y=72, z=226}
+[07Sep2025 20:45:58.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-678, y=73, z=226} BlockPos{x=-678, y=72, z=226}
+[07Sep2025 20:45:58.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-678, y=73, z=227} BlockPos{x=-679, y=72, z=227}
+[07Sep2025 20:45:58.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-677, y=73, z=227} BlockPos{x=-678, y=72, z=227}
+[07Sep2025 20:45:58.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-676, y=73, z=228} BlockPos{x=-677, y=72, z=228}
+[07Sep2025 20:45:59.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-675, y=73, z=229} BlockPos{x=-675, y=72, z=229}
+[07Sep2025 20:45:59.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-672, y=73, z=229} BlockPos{x=-672, y=72, z=228}
+[07Sep2025 20:46:12.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-677, y=73, z=213} BlockPos{x=-677, y=72, z=214}
+[07Sep2025 20:46:13.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-676, y=73, z=212} BlockPos{x=-677, y=72, z=212}

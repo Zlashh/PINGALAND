@@ -5255,7 +5255,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-09-07 03:31:36 +0000",
-      "brown_mushroom": "2025-09-07 03:54:16 +0000"
+      "brown_mushroom": "2025-09-07 03:54:16 +0000",
+      "wheat": "2025-09-07 20:35:40 +0000"
     },
     "done": false
   },
@@ -7091,6 +7092,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
+    "criteria": {
+      "has_yellow_lupine": "2025-09-07 20:36:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_glaive": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
@@ -7118,6 +7125,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-09-07 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
+    "criteria": {
+      "has_red_lupine": "2025-09-07 20:36:53 +0000"
     },
     "done": true
   },
@@ -7223,6 +7236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-07 20:34:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_rapier": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
@@ -7238,6 +7257,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-09-07 20:04:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-09-07 20:36:09 +0000"
     },
     "done": true
   },
@@ -7268,6 +7293,12 @@
   "legendarysurvivaloverhaul:recipes/food/heart_container": {
     "criteria": {
       "has_heart_fragment": "2025-09-07 20:31:44 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
+    "criteria": {
+      "has_twigs": "2025-09-07 20:37:17 +0000"
     },
     "done": true
   },
@@ -7397,6 +7428,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
+    "criteria": {
+      "has_pine_shrub": "2025-09-07 20:41:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_parrying_dagger": {
     "criteria": {
       "has_silver_ingot": "2025-09-07 19:48:04 +0000"
@@ -7436,6 +7473,12 @@
   "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-09-07 20:35:21 +0000"
     },
     "done": true
   },
@@ -7490,6 +7533,12 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-09-07 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-07 20:35:40 +0000"
     },
     "done": true
   },
