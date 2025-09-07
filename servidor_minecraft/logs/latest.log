@@ -5419,3 +5419,32 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 21:38:23.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Take Aim]
 [07Sep2025 21:38:26.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was blown up by Skeleton Creeper
 [07Sep2025 21:38:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 21:40:31.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Good Demoman]
+[07Sep2025 21:43:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Sea? Not a Problem]
+[07Sep2025 21:45:27.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[07Sep2025 21:45:27.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[07Sep2025 21:45:27.416] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
+[07Sep2025 21:49:34.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zlashh[/127.113.86.4:39167] logged in with entity id 31350 at (-761.7888939267266, 72.8500000178814, 217.62376870897623)
+[07Sep2025 21:49:34.176] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[07Sep2025 21:49:34.185] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zlashh
+[07Sep2025 21:49:34.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh joined the game
+[07Sep2025 21:49:35.498] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zlashh (18)
+[07Sep2025 21:49:35.499] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zlashh
+[07Sep2025 21:49:37.215] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07Sep2025 21:49:37.215] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[07Sep2025 21:49:37.216] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07Sep2025 21:49:37.217] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07Sep2025 21:49:37.217] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07Sep2025 21:49:37.217] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
