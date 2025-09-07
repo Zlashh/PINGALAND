@@ -5535,3 +5535,30 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 22:44:00.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
 [07Sep2025 22:44:00.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
 [07Sep2025 22:44:00.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
+[07Sep2025 22:55:02.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zlashh[/127.113.86.4:46361] logged in with entity id 53502 at (141.30000001192093, 10.0, -479.69999998807907)
+[07Sep2025 22:55:02.669] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[07Sep2025 22:55:02.679] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zlashh
+[07Sep2025 22:55:02.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh joined the game
+[07Sep2025 22:55:03.529] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zlashh (18)
+[07Sep2025 22:55:03.530] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zlashh
+[07Sep2025 22:55:03.530] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07Sep2025 22:55:03.530] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07Sep2025 22:55:03.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[07Sep2025 22:55:03.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07Sep2025 22:55:03.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[07Sep2025 22:55:03.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[07Sep2025 22:55:03.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[07Sep2025 22:55:03.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[07Sep2025 22:55:03.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[07Sep2025 22:55:03.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[07Sep2025 22:55:03.532] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[07Sep2025 22:55:03.532] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[07Sep2025 22:55:03.532] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[07Sep2025 22:55:03.532] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[07Sep2025 22:55:03.532] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07Sep2025 22:55:03.532] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07Sep2025 22:55:03.532] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07Sep2025 22:55:03.532] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[07Sep2025 22:55:07.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Corpse Fly
+[07Sep2025 22:55:20.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 23:00:36.924] [Worker-Main-117/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
