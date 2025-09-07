@@ -5531,3 +5531,7 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 22:23:58.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zlashh) moved wrongly! 1.0012213925273876
 [07Sep2025 22:23:58.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zlashh) moved wrongly! 1.381537308542157
 [07Sep2025 22:29:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [My Name is Nobody]
+[07Sep2025 22:42:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Food Fight]
+[07Sep2025 22:44:00.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[07Sep2025 22:44:00.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[07Sep2025 22:44:00.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
