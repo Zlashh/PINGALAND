@@ -5448,3 +5448,44 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 21:49:37.217] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [07Sep2025 21:49:37.217] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [07Sep2025 21:49:37.217] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[07Sep2025 21:56:27.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: skull[/127.62.5.236:41595] logged in with entity id 32836 at (-695.5095270233244, 17.0, 116.14598826328277)
+[07Sep2025 21:56:27.957] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[07Sep2025 21:56:27.970] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player skull
+[07Sep2025 21:56:28.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull joined the game
+[07Sep2025 21:56:29.028] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of skull (18)
+[07Sep2025 21:56:29.029] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to skull
+[07Sep2025 21:56:29.031] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07Sep2025 21:56:29.032] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07Sep2025 21:56:29.032] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[07Sep2025 21:56:29.032] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07Sep2025 21:56:29.032] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[07Sep2025 21:56:29.032] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[07Sep2025 21:56:29.032] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[07Sep2025 21:56:29.032] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[07Sep2025 21:56:29.032] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[07Sep2025 21:56:29.033] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[07Sep2025 21:56:29.033] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[07Sep2025 21:56:29.033] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[07Sep2025 21:56:29.033] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[07Sep2025 21:56:29.033] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[07Sep2025 21:56:29.033] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07Sep2025 21:56:29.033] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07Sep2025 21:56:29.033] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07Sep2025 21:56:29.033] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[07Sep2025 21:56:44.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> oe
+[07Sep2025 21:56:46.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> amor
+[07Sep2025 21:56:50.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was blown up by Creeper
+[07Sep2025 21:56:51.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 21:56:55.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> xd
+[07Sep2025 21:57:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[07Sep2025 21:57:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> oe
+[07Sep2025 21:57:16.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> QUE QUIERES
+[07Sep2025 21:57:31.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> solo tu puedes ser feliz entonces?
+[07Sep2025 21:57:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> Q QUIERES
+[07Sep2025 21:57:43.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> MANO ME LLEGA AL PINCHO
+[07Sep2025 21:57:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> QUE ME DIGAS
+[07Sep2025 21:57:49.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> GO
+[07Sep2025 21:57:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> Y ESTES MUTEADO
+[07Sep2025 21:57:57.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> mano tu antes me choteabas en las tardes y solo podias en las noches
+[07Sep2025 21:58:13.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> VAS A SCAR TRAPITOS ENTONCES
+[07Sep2025 21:58:23.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> MANO YO NO MIRO AL PASADO

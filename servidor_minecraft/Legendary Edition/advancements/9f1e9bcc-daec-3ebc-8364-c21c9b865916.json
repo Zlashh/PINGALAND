@@ -150,11 +150,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-09-07 03:08:43 +0000",
+      "environmental:environmental:blossom_woods": "2025-09-07 21:56:50 +0000",
       "minecraft:lukewarm_ocean": "2025-09-07 03:09:33 +0000",
       "minecraft:river": "2025-09-07 02:50:18 +0000",
       "atmospheric:atmospheric:rainforest_basin": "2025-09-07 03:09:50 +0000",
+      "minecraft:forest": "2025-09-07 21:58:01 +0000",
       "minecraft:ocean": "2025-09-07 02:07:46 +0000",
       "minecraft:warm_ocean": "2025-09-07 03:08:44 +0000",
+      "minecraft:savanna": "2025-09-07 21:58:27 +0000",
       "minecraft:plains": "2025-09-07 03:20:34 +0000"
     },
     "done": false
@@ -529,6 +532,7 @@
       "dune_beach": "2025-09-07 02:50:33 +0000",
       "seasonal_forest": "2025-09-07 02:50:57 +0000",
       "fir_clearing": "2025-09-07 02:58:49 +0000",
+      "grassland": "2025-09-07 21:57:09 +0000",
       "gravel_beach": "2025-09-07 02:50:49 +0000"
     },
     "done": false
@@ -8215,6 +8219,12 @@
       "has_pink_daffodil": "2025-09-07 21:43:57 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-09-07 21:59:21 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
