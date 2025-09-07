@@ -5563,3 +5563,4 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 22:55:20.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [07Sep2025 23:00:36.924] [Worker-Main-117/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
 [07Sep2025 23:05:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Deceived Hopes]
+[07Sep2025 23:31:15.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Lamar'/60025, l='ServerLevel[Legendary Edition]', x=200.46, y=11.00, z=-542.51] died: Lamar discovered the floor was lava
