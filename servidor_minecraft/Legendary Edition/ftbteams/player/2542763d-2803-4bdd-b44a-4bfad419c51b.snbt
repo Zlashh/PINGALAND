@@ -1,0 +1,17 @@
+{
+	id: "2542763d-2803-4bdd-b44a-4bfad419c51b"
+	type: "player"
+	player_name: "Zlashh"
+	ranks: {
+		2542763d-2803-4bdd-b44a-4bfad419c51b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Zlashh"
+		"ftbteams:description": ""
+		"ftbteams:color": "#83FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
