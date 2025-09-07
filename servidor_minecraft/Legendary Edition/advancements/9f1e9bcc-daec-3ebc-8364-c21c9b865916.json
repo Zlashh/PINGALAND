@@ -8226,6 +8226,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-09-07 22:33:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_stairs": {
+    "criteria": {
+      "has_mauve_planks": "2025-09-07 22:32:54 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_warped_stool": {
     "criteria": {
       "has_white_wool": "2025-09-07 22:28:23 +0000"
@@ -8250,6 +8262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-09-07 22:33:44 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/combat/snow_chestplate": {
     "criteria": {
       "has_wool": "2025-09-07 22:28:23 +0000"
@@ -8271,6 +8289,12 @@
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-09-07 22:28:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_door": {
+    "criteria": {
+      "has_mauve_planks": "2025-09-07 22:32:54 +0000"
     },
     "done": true
   },
@@ -8364,6 +8388,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
+    "criteria": {
+      "has_mauve_planks": "2025-09-07 22:32:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-09-07 22:28:55 +0000"
@@ -8412,6 +8442,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/mauve_button": {
+    "criteria": {
+      "has_mauve_planks": "2025-09-07 22:32:54 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_jungle_chair": {
     "criteria": {
       "has_white_wool": "2025-09-07 22:28:23 +0000"
@@ -8436,6 +8472,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_sign": {
+    "criteria": {
+      "has_mauve_planks": "2025-09-07 22:32:54 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_birch_chair": {
     "criteria": {
       "has_white_wool": "2025-09-07 22:28:23 +0000"
@@ -8445,6 +8487,18 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-09-07 22:28:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-07 22:29:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_mauve": {
+    "criteria": {
+      "has_item": "2025-09-07 22:32:54 +0000"
     },
     "done": true
   },
@@ -8490,6 +8544,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_fence": {
+    "criteria": {
+      "has_mauve_planks": "2025-09-07 22:32:54 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/beach_towel": {
     "criteria": {
       "has_white_wool": "2025-09-07 22:28:23 +0000"
@@ -8511,6 +8571,36 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_birch_chair": {
     "criteria": {
       "has_white_wool": "2025-09-07 22:28:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_slab": {
+    "criteria": {
+      "has_mauve_planks": "2025-09-07 22:32:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_trapdoor": {
+    "criteria": {
+      "has_mauve_planks": "2025-09-07 22:32:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_fence_gate": {
+    "criteria": {
+      "has_mauve_planks": "2025-09-07 22:32:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-09-07 22:33:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-09-07 22:33:44 +0000"
     },
     "done": true
   },
