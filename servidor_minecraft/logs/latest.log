@@ -5360,3 +5360,22 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 19:58:23.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [07Sep2025 19:59:04.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G2_PsycoH was shot by Mutant Skeleton
 [07Sep2025 20:04:49.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Who is Cutting Onions?]
+[07Sep2025 20:32:46.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[07Sep2025 20:32:48.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 20:33:01.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[07Sep2025 20:33:03.309] [C2ME worker #1/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[07Sep2025 20:33:03.310] [C2ME worker #1/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 20:33:03.311] [C2ME worker #1/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[07Sep2025 20:33:03.311] [C2ME worker #1/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Sep2025 20:33:03.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 20:33:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[07Sep2025 20:33:13.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 20:33:40.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[07Sep2025 20:33:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 20:35:21.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-668, y=73, z=194} BlockPos{x=-667, y=72, z=194}
+[07Sep2025 20:35:40.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [A Seedy Place]
+[07Sep2025 20:36:20.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-672, y=73, z=162} BlockPos{x=-671, y=72, z=162}
+[07Sep2025 20:36:53.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-671, y=73, z=193} BlockPos{x=-671, y=72, z=194}
+[07Sep2025 20:38:27.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G2_PsycoH lost connection: Disconnected
+[07Sep2025 20:38:27.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G2_PsycoH left the game
+[07Sep2025 20:38:27.164] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client G2_PsycoH
