@@ -5512,3 +5512,18 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 22:04:43.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skull
 [07Sep2025 22:09:19.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Mutant Zombie
 [07Sep2025 22:09:20.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 22:17:05.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zlashh) moved wrongly! 0.34958051126440637
+[07Sep2025 22:17:05.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zlashh) moved wrongly! 0.7143393558804573
+[07Sep2025 22:17:05.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zlashh) moved wrongly! 1.1222205125450266
+[07Sep2025 22:17:05.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zlashh) moved wrongly! 1.564507099267565
+[07Sep2025 22:17:05.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zlashh) moved wrongly! 0.3010578764672971
+[07Sep2025 22:17:30.289] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/43878, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[07Sep2025 22:17:30.290] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/43878, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[07Sep2025 22:17:30.292] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Humanoid (slim)'/43878, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80].
+[07Sep2025 22:17:30.300] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7440ca2a, net.minecraft.world.item.trading.MerchantOffer@352f82a6, net.minecraft.world.item.trading.MerchantOffer@7dea2ca, net.minecraft.world.item.trading.MerchantOffer@5d9b56fb, net.minecraft.world.item.trading.MerchantOffer@2ff8c6f8, net.minecraft.world.item.trading.MerchantOffer@668b5b13, net.minecraft.world.item.trading.MerchantOffer@14b17dfa, net.minecraft.world.item.trading.MerchantOffer@139add19, net.minecraft.world.item.trading.MerchantOffer@7a3c1694, net.minecraft.world.item.trading.MerchantOffer@46d38903] for HumanoidSlim['Humanoid (slim)'/43878, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80]
+[07Sep2025 22:17:43.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zlashh) moved wrongly! 0.3707295696760866
+[07Sep2025 22:17:43.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zlashh) moved wrongly! 0.7592854995764924
+[07Sep2025 22:17:44.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zlashh) moved wrongly! 1.0855584578622484
+[07Sep2025 22:17:44.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zlashh) moved wrongly! 1.260140612659967
+[07Sep2025 22:19:24.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Deepling Brute
+[07Sep2025 22:19:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found

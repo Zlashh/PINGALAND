@@ -14,6 +14,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "pine_taiga": "2025-09-07 02:05:38 +0000",
+      "willow_forest": "2025-09-07 22:14:03 +0000",
       "rocky_reef": "2025-09-07 03:06:05 +0000",
       "grassy_beach": "2025-09-07 03:05:36 +0000",
       "rocky_meadow": "2025-09-07 03:06:01 +0000",
@@ -21,6 +22,7 @@
       "magnolia_highlands": "2025-09-07 03:19:32 +0000",
       "joshua_desert": "2025-09-07 02:53:29 +0000",
       "bamboo_forest": "2025-09-07 03:45:56 +0000",
+      "redwoods": "2025-09-07 22:11:50 +0000",
       "lupine_plains": "2025-09-07 03:22:54 +0000"
     },
     "done": false
@@ -28,6 +30,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "pine_taiga": "2025-09-07 02:05:38 +0000",
+      "willow_forest": "2025-09-07 22:14:03 +0000",
       "rocky_reef": "2025-09-07 03:06:05 +0000",
       "grassy_beach": "2025-09-07 03:05:36 +0000",
       "rocky_meadow": "2025-09-07 03:06:01 +0000",
@@ -35,6 +38,7 @@
       "magnolia_highlands": "2025-09-07 03:19:32 +0000",
       "joshua_desert": "2025-09-07 02:53:29 +0000",
       "bamboo_forest": "2025-09-07 03:45:56 +0000",
+      "redwoods": "2025-09-07 22:11:50 +0000",
       "lupine_plains": "2025-09-07 03:22:54 +0000"
     },
     "done": false
