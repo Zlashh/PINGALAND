@@ -5251,3 +5251,40 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 19:09:16.750] [Server thread/WARN] [ModernFix/]: Dedicated server took 131.766 seconds to load
 [07Sep2025 19:09:20.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3383ms or 67 ticks behind
 [07Sep2025 19:12:11.364] [Netty Epoll Server IO #1/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.common.mixins.json:PacketEncoderMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:PacketEncoderMixin from mod connectivity->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/protocol/Packet;Lio/netty/buffer/ByteBuf;)I with priority 1000
+[07Sep2025 19:24:40.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zlashh[/127.113.86.4:38975] logged in with entity id 114 at (-664.4875000119209, 70.41391568589107, 177.68939717529517)
+[07Sep2025 19:24:40.836] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[07Sep2025 19:24:40.853] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zlashh
+[07Sep2025 19:24:40.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh joined the game
+[07Sep2025 19:24:41.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[07Sep2025 19:24:52.315] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zlashh (18)
+[07Sep2025 19:24:52.325] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zlashh
+[07Sep2025 19:24:52.329] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07Sep2025 19:24:52.335] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07Sep2025 19:24:52.341] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[07Sep2025 19:24:52.343] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07Sep2025 19:24:52.347] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[07Sep2025 19:24:52.349] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[07Sep2025 19:24:52.349] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[07Sep2025 19:24:52.349] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[07Sep2025 19:24:52.350] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[07Sep2025 19:24:52.351] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[07Sep2025 19:24:52.351] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[07Sep2025 19:24:52.352] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[07Sep2025 19:24:52.352] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[07Sep2025 19:24:52.353] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[07Sep2025 19:24:52.353] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07Sep2025 19:24:52.354] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07Sep2025 19:24:52.354] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07Sep2025 19:24:52.355] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[07Sep2025 19:25:08.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12105ms or 242 ticks behind
+[07Sep2025 19:25:15.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Door Knight
+[07Sep2025 19:25:16.113] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Sep2025 19:25:16.116] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[07Sep2025 19:25:16.117] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Sep2025 19:25:16.118] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Sep2025 19:25:16.118] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[07Sep2025 19:25:17.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 19:26:08.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Nightmare Stalker
+[07Sep2025 19:26:09.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 19:26:47.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Nightmare Stalker
+[07Sep2025 19:26:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
