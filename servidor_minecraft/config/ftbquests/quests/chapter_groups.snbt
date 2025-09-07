@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "4AB9DBC8081DB351", title: "Main menu" }
+		{ id: "5F70218941C1FBB1", title: "QUESTS" }
+		{ id: "24EA56649EA2376E", title: "Tutorials" }
+		{ id: "49DA790BB69BB4EE", title: "Hidden Tutorial Pages" }
+	]
+}

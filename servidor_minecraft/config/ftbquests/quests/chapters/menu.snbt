@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "menu"
+	group: "4AB9DBC8081DB351"
+	id: "00E073DEAA3ED690"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Menu"
+}

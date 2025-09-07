@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1744984462476,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Krampus\\curseforge\\minecraft\\Instances\\Minecraft Legendary Edition 1.20.1\\config\\spark\\profile-2025-04-18_15.54.22.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1744832086917,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Krampus\\curseforge\\minecraft\\Instances\\Minecraft Legendary Edition 1.20.1\\config\\spark\\profile-2025-04-16_21.34.46.sparkprofile"
+    }
+  }
+]

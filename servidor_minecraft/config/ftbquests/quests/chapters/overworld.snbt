@@ -1,0 +1,139 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overworld"
+	group: "5F70218941C1FBB1"
+	icon: "minecraft:grass_block"
+	id: "7D14A9A36DB25C94"
+	images: [
+		{
+			height: 16.0d
+			image: "ftbquests:textures/custom/sky_village_quests.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			height: 16.0d
+			image: "ftbquests:textures/custom/oceans_quests.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependency_requirement: "one_started"
+			description: ["&6&oAsk the greedy merchant why he is so bitter and doesn't want to trade with you.&r&r"]
+			hide_dependency_lines: true
+			icon: "minecraft:writable_book"
+			id: "5C890715789FAF1E"
+			rewards: [{
+				auto: "enabled"
+				id: "0F7FF0AC5E81D67D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			size: 1.0d
+			subtitle: "Ask the greedy merchant why he is so bitter"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "02CE220C0B070419"
+				title: "Talk to the Greedy Merchant"
+				type: "custom"
+			}]
+			x: -7.071428571428569d
+			y: -3.357142857142861d
+		}
+		{
+			dependencies: ["5C890715789FAF1E"]
+			description: ["&6&oThe merchant says he will give you an atlas and allow you to trade with him if you find the notebook he has lost.&r&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:writable_book"
+			id: "3987398C3E851E39"
+			rewards: [{
+				id: "0B4FC043750D6B32"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "diamond"
+			size: 1.0d
+			subtitle: "Find the greedy merchant's lost Notebook"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "577008F4AEE2A7CE"
+				title: "Find the Greedy Merchant's Notebook"
+				type: "custom"
+			}]
+			title: "Find the greedy merchant's Notebook"
+			x: -5.0040816326530475d
+			y: -3.3877551020408276d
+		}
+		{
+			dependencies: ["3987398C3E851E39"]
+			description: ["&6&oThe fairy gave the notebook back. Tomorrow, when the shop opens, you will be able to bring back the notebook to the greedy merchant and get your reward.&r&r"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:writable_book"
+			id: "2289D9A39884B424"
+			rewards: [{
+				auto: "enabled"
+				id: "569B11A0142551E6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							maps: [I; ]
+						}
+					}
+					id: "map_atlases:atlas"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.0d
+			subtitle: "Now that you found the notebook, you can bring it back to the merchant."
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "0F97DA9CD7929BE6"
+				title: "Bring the Notebook back to the merchant"
+				type: "custom"
+			}]
+			title: "Bring back the notebook to the merchant"
+			x: -2.964285714285708d
+			y: -3.357142857142861d
+		}
+		{
+			dependency_requirement: "one_started"
+			description: ["&6&oAsk the greedy merchant why he is so bitter and doesn't want to trade with you.&r&r"]
+			hide_dependency_lines: true
+			icon: "minecraft:writable_book"
+			id: "685C748733756AE8"
+			rewards: [{
+				auto: "enabled"
+				id: "6084381BD66FE802"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			size: 1.0d
+			subtitle: "Ask the greedy merchant why he is so bitter"
+			tasks: [{
+				icon: "minecraft:writable_book"
+				id: "312CBCB7C3B28351"
+				title: "Find the Ribbits Lighthouse"
+				type: "custom"
+			}]
+			x: 0.9285714285714377d
+			y: -3.357142857142861d
+		}
+	]
+	title: "Overworld Quests"
+}

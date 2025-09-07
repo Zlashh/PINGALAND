@@ -1,0 +1,29 @@
+{
+  "block_names": {
+    "projectvibrantjourneys:short_grass": {
+      "chance": 0.01
+    }
+  },
+  "block_tags": {
+    "minecraft:tall_flowers": {
+      "chance": 0.01
+    },
+    "minecraft:flowers": {
+      "chance": 0.01
+    },
+    "minecraft:small_flowers": {
+      "chance": 0.01
+    },
+    "forge:plant": {
+      "chance": 0.005
+    }
+  },
+  "entity_names": {},
+  "entity_type_tags": {},
+  "black_list": {
+    "block_names": [],
+    "block_tags": [],
+    "entity_names": [],
+    "entity_type_tags": []
+  }
+}

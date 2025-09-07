@@ -1,0 +1,771 @@
+{
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-09-06 04:12:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-09-06 04:12:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "pine_taiga": "2025-09-06 04:14:08 +0000",
+      "grassy_beach": "2025-09-06 04:15:12 +0000",
+      "rocky_meadow": "2025-09-06 04:12:51 +0000",
+      "gravel_beach": "2025-09-06 04:16:55 +0000",
+      "lupine_plains": "2025-09-06 04:57:55 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "pine_taiga": "2025-09-06 04:14:08 +0000",
+      "grassy_beach": "2025-09-06 04:15:12 +0000",
+      "rocky_meadow": "2025-09-06 04:12:51 +0000",
+      "gravel_beach": "2025-09-06 04:16:55 +0000",
+      "lupine_plains": "2025-09-06 04:57:55 +0000"
+    },
+    "done": false
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2025-09-06 04:12:51 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2025-09-06 04:12:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-09-06 04:12:51 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:main/root": {
+    "criteria": {
+      "main": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "mobs_of_mythology:mobs_of_mythology": {
+    "criteria": {
+      "tick": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/tropical_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/peach_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/plum_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/river_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/laurel_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/driftwood_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/grimwood_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/rosewood_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/strawberry_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/kousa_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/transportation/sea_foam_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/morado_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/transportation/yucca_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-09-06 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lavender_field": "2025-09-06 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "rocky_shrubland": "2025-09-06 04:33:50 +0000",
+      "overgrown_greens": "2025-09-06 04:15:54 +0000",
+      "coniferous_forest": "2025-09-06 04:16:44 +0000",
+      "dune_beach": "2025-09-06 04:13:14 +0000",
+      "lavender_field": "2025-09-06 04:13:12 +0000",
+      "grassland": "2025-09-06 04:39:04 +0000",
+      "gravel_beach": "2025-09-06 04:16:37 +0000"
+    },
+    "done": false
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-09-06 04:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-09-06 04:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-09-06 04:15:55 +0000",
+      "environmental:environmental:blossom_woods": "2025-09-06 04:46:14 +0000",
+      "minecraft:river": "2025-09-06 04:15:19 +0000",
+      "atmospheric:atmospheric:laurel_forest": "2025-09-06 04:15:27 +0000",
+      "minecraft:ocean": "2025-09-06 04:42:52 +0000"
+    },
+    "done": false
+  },
+  "beachparty:main/welcome_to_the_beach": {
+    "criteria": {
+      "enter_beach": "2025-09-06 04:15:55 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-06 04:16:20 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_bricks_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_tile_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/misc/mud_ball_from_dirt": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_brick_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/dirt_tile_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_brick_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_tiles_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_tile_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_bricks": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/dirt_brick_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-06 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "serene_shrubbery:gardeners_path": {
+    "criteria": {
+      "gardeners_path_0": "2025-09-06 04:42:27 +0000"
+    },
+    "done": true
+  },
+  "serene_shrubbery:hydrangea_horticulturist": {
+    "criteria": {
+      "hydrangea_horticulturist_2": "2025-09-06 04:42:28 +0000"
+    },
+    "done": false
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-09-06 04:47:46 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-09-06 04:55:08 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

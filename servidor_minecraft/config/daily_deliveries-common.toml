@@ -1,0 +1,10 @@
+#Chance of Golden Delivery Point spawning (percentage, default: 30)
+#Range: 0 ~ 100
+goldenDeliveryChance = 30
+#Chance of Magic Delivery Point spawning (percentage, default: 10)
+#Range: 0 ~ 100
+magicDeliveryChance = 10
+#Spawn radius of Delivery Point from the player (default: 1000, min: 200, max: 2000)
+#Range: 200 ~ 2000
+deliveryPointRadius = 1000
+
