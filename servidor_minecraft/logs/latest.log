@@ -5356,3 +5356,7 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 19:46:41.092] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [07Sep2025 19:46:41.092] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [07Sep2025 19:46:41.092] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[07Sep2025 19:58:21.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was killed by Witch using magic
+[07Sep2025 19:58:23.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[07Sep2025 19:59:04.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G2_PsycoH was shot by Mutant Skeleton
+[07Sep2025 20:04:49.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Who is Cutting Onions?]
