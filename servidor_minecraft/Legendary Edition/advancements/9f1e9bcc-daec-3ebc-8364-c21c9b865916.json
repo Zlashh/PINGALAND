@@ -23,6 +23,7 @@
       "joshua_desert": "2025-09-07 02:53:29 +0000",
       "bamboo_forest": "2025-09-07 03:45:56 +0000",
       "redwoods": "2025-09-07 22:11:50 +0000",
+      "rainforest": "2025-09-07 23:52:49 +0000",
       "lupine_plains": "2025-09-07 03:22:54 +0000"
     },
     "done": false
@@ -39,6 +40,7 @@
       "joshua_desert": "2025-09-07 02:53:29 +0000",
       "bamboo_forest": "2025-09-07 03:45:56 +0000",
       "redwoods": "2025-09-07 22:11:50 +0000",
+      "rainforest": "2025-09-07 23:52:49 +0000",
       "lupine_plains": "2025-09-07 03:22:54 +0000"
     },
     "done": false
@@ -8647,6 +8649,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-07 23:40:10 +0000"
@@ -8689,6 +8697,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-07 23:40:10 +0000"
@@ -8701,15 +8721,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-09-07 23:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-07 23:40:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-09-07 23:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-07 23:58:50 +0000"
     },
     "done": true
   },
@@ -8731,6 +8769,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
+    },
+    "done": true
+  },
   "crockpot:gnaw_will_be_happy": {
     "criteria": {
       "veg_stinger": "2025-09-07 23:45:30 +0000"
@@ -8740,6 +8790,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-09-07 23:58:50 +0000"
     },
     "done": true
   },
@@ -8755,15 +8811,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:quarterstaff": {
     "criteria": {
       "has_quarterstaff": "2025-09-07 23:43:31 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-09-07 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
     },
     "done": true
   },
@@ -8833,6 +8913,12 @@
     },
     "done": true
   },
+  "legendarysurvivaloverhaul:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-09-07 23:47:55 +0000"
@@ -8845,6 +8931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-09-07 23:40:10 +0000"
@@ -8854,6 +8946,12 @@
   "handcrafted:recipes/misc/sandstone_pillar_trim": {
     "criteria": {
       "has_sandstone_pillar_trim": "2025-09-07 23:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-09-07 23:58:50 +0000"
     },
     "done": true
   },

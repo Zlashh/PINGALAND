@@ -5584,3 +5584,9 @@ ModdedBiomeSource (60e243d)
 [07Sep2025 23:47:55.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [The Wind Darkening]
 [07Sep2025 23:48:23.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Hammer Time!]
 [07Sep2025 23:48:50.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Old School Defense]
+[07Sep2025 23:56:11.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Joshua'/64613, l='ServerLevel[Legendary Edition]', x=364.49, y=71.00, z=265.51] died, message: 'Joshua was slain by Guster'
+[07Sep2025 23:56:11.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Joshua'/64613, l='ServerLevel[Legendary Edition]', x=364.49, y=71.00, z=265.51] died: Joshua was slain by Guster
+[07Sep2025 23:56:15.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Eye of The Storm]
+[07Sep2025 23:56:53.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Brionne'/64783, l='ServerLevel[Legendary Edition]', x=359.09, y=65.00, z=221.68] died, message: 'Brionne hit the ground too hard whilst trying to escape Guster'
+[07Sep2025 23:56:53.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Brionne'/64783, l='ServerLevel[Legendary Edition]', x=359.09, y=65.00, z=221.68] died: Brionne hit the ground too hard whilst trying to escape Guster
+[07Sep2025 23:58:50.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Crops of the Wild]
