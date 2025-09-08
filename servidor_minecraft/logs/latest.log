@@ -24,3 +24,31 @@
 [08Sep2025 00:19:45.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
 [08Sep2025 00:19:45.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
 [08Sep2025 00:19:45.064] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
+[08Sep2025 02:22:16.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zlashh[/127.113.86.4:42525] logged in with entity id 73593 at (374.31285528434483, 69.0, 235.33361189455619)
+[08Sep2025 02:22:16.095] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 02:22:16.103] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zlashh
+[08Sep2025 02:22:16.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh joined the game
+[08Sep2025 02:22:16.873] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/73680, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[08Sep2025 02:22:16.874] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/73680, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[08Sep2025 02:22:16.874] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Veteran Explorer'/73680, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50].
+[08Sep2025 02:22:16.875] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@187d504d, net.minecraft.world.item.trading.MerchantOffer@6ecae482, net.minecraft.world.item.trading.MerchantOffer@b74b6c, net.minecraft.world.item.trading.MerchantOffer@781c7d69, net.minecraft.world.item.trading.MerchantOffer@a91b51f, net.minecraft.world.item.trading.MerchantOffer@3346ae3b, net.minecraft.world.item.trading.MerchantOffer@9906f14, net.minecraft.world.item.trading.MerchantOffer@12fcac7a] for HumanoidSlim['Veteran Explorer'/73680, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50]
+[08Sep2025 02:22:19.125] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zlashh (18)
+[08Sep2025 02:22:19.125] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zlashh
+[08Sep2025 02:22:19.126] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 02:22:19.126] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 02:22:19.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 02:22:19.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 02:22:19.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 02:22:19.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 02:22:19.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 02:22:19.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 02:22:19.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 02:22:19.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 02:22:19.127] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 02:22:19.128] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 02:22:19.128] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 02:22:19.128] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 02:22:19.128] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 02:22:19.128] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 02:22:19.128] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 02:22:19.128] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
