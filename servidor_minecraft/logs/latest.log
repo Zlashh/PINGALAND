@@ -72,3 +72,6 @@
 [08Sep2025 02:48:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [A Glorious Feast]
 [08Sep2025 02:54:48.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Normand'/90748, l='ServerLevel[Legendary Edition]', x=-1401.19, y=64.00, z=43.21] died, message: 'Normand hit the ground too hard'
 [08Sep2025 02:54:48.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Normand'/90748, l='ServerLevel[Legendary Edition]', x=-1401.19, y=64.00, z=43.21] died: Normand fell from a high place
+[08Sep2025 02:56:24.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[08Sep2025 02:56:24.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[08Sep2025 02:56:24.868] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
