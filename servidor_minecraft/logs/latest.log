@@ -101,3 +101,6 @@
 [08Sep2025 03:14:29.709] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
 [08Sep2025 03:14:47.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Aaron'/93734, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.80] died, message: 'Aaron hit the ground too hard'
 [08Sep2025 03:14:47.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Aaron'/93734, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.80] died: Aaron fell from a high place
+[08Sep2025 03:15:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[08Sep2025 03:15:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 03:19:00.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Tools of the Trade]

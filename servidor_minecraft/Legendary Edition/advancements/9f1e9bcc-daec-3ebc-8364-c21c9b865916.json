@@ -9581,5 +9581,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-09-08 03:19:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
