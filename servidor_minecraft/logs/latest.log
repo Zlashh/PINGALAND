@@ -5274,3 +5274,53 @@ ModdedBiomeSource (1f5ceff1)
 [08Sep2025 18:13:30.097] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [08Sep2025 18:13:30.099] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
 [08Sep2025 18:13:30.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13660ms or 273 ticks behind
+[08Sep2025 18:40:36.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pavks[/127.105.66.205:41447] logged in with entity id 3868 at (-509.5968433795201, 63.0, 411.54865288839045)
+[08Sep2025 18:40:36.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 18:40:36.777] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Pavks
+[08Sep2025 18:40:36.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks joined the game
+[08Sep2025 18:40:39.419] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pavks (18)
+[08Sep2025 18:40:39.419] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pavks
+[08Sep2025 18:40:39.420] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 18:40:39.420] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 18:40:39.420] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 18:40:39.420] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 18:40:39.420] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 18:40:39.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 18:40:39.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 18:40:39.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 18:40:39.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 18:40:39.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 18:40:39.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 18:40:39.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 18:40:39.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 18:40:39.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 18:40:39.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 18:40:39.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 18:40:39.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 18:40:39.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 18:41:33.331] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 6.958 ms. 7230/7999 recipes are parallelized.
+[08Sep2025 18:41:40.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks was slain by Sea Serpent
+[08Sep2025 18:41:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 18:45:14.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Mine? Mine? Mine?]
+[08Sep2025 18:45:20.075] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/6533, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[08Sep2025 18:45:20.078] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/6533, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[08Sep2025 18:45:20.080] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Humanoid (slim)'/6533, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80].
+[08Sep2025 18:45:20.089] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@559fb32a, net.minecraft.world.item.trading.MerchantOffer@77559046, net.minecraft.world.item.trading.MerchantOffer@669d07d4, net.minecraft.world.item.trading.MerchantOffer@71f4cbe5, net.minecraft.world.item.trading.MerchantOffer@59da2012, net.minecraft.world.item.trading.MerchantOffer@2565ccf, net.minecraft.world.item.trading.MerchantOffer@c7b58f6, net.minecraft.world.item.trading.MerchantOffer@5b07017f, net.minecraft.world.item.trading.MerchantOffer@535560bd, net.minecraft.world.item.trading.MerchantOffer@6355ee3c] for HumanoidSlim['Humanoid (slim)'/6533, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80]
+[08Sep2025 18:45:24.205] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/6569, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[08Sep2025 18:45:24.206] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/6569, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[08Sep2025 18:45:24.206] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Humanoid (slim)'/6569, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80].
+[08Sep2025 18:45:24.207] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@2e3fc6f1, net.minecraft.world.item.trading.MerchantOffer@65bcc9d9, net.minecraft.world.item.trading.MerchantOffer@183ed55f, net.minecraft.world.item.trading.MerchantOffer@2ba118ea, net.minecraft.world.item.trading.MerchantOffer@7b794b21, net.minecraft.world.item.trading.MerchantOffer@7808b796, net.minecraft.world.item.trading.MerchantOffer@167211e5, net.minecraft.world.item.trading.MerchantOffer@35b73d89, net.minecraft.world.item.trading.MerchantOffer@426485d, net.minecraft.world.item.trading.MerchantOffer@392ffb48] for HumanoidSlim['Humanoid (slim)'/6569, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80]
+[08Sep2025 18:46:01.470] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/6998, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[08Sep2025 18:46:01.470] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/6998, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[08Sep2025 18:46:01.470] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Veteran Explorer'/6998, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50].
+[08Sep2025 18:46:01.471] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@207f411f, net.minecraft.world.item.trading.MerchantOffer@24d0668c, net.minecraft.world.item.trading.MerchantOffer@492fb479, net.minecraft.world.item.trading.MerchantOffer@3c62cec7, net.minecraft.world.item.trading.MerchantOffer@66cf07ed, net.minecraft.world.item.trading.MerchantOffer@410cf9be, net.minecraft.world.item.trading.MerchantOffer@75b4119a, net.minecraft.world.item.trading.MerchantOffer@5f8aed1d] for HumanoidSlim['Veteran Explorer'/6998, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50]
+[08Sep2025 18:46:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks was shot by Skeleton
+[08Sep2025 18:46:41.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 18:46:45.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Sweet Dreams]
+[08Sep2025 18:46:49.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pavks> Pavks
+[08Sep2025 18:46:56.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pavks> zzzzzzzzzzzzzz
+[08Sep2025 18:46:57.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pavks> zzzzzzzzzzzzz
+[08Sep2025 18:46:58.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pavks> zzzzzzzzzzz
+[08Sep2025 18:47:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pavks> zzzzzzzzzzzzzzzz
+[08Sep2025 18:47:01.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pavks> zzzzzzzzzzzzzzzzzzzzzzzzz
+[08Sep2025 18:47:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pavks> t
