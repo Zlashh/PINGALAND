@@ -8644,21 +8644,81 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+  "upgrade_aquatic:recipes/misc/nautilus_shell_from_smelting_embedded_ammonite": {
     "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
+      "has_embedded_ammonite": "2025-09-07 22:59:07 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/misc/nautilus_shell_from_blasting_embedded_ammonite": {
+    "criteria": {
+      "has_embedded_ammonite": "2025-09-07 22:59:07 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-09-07 23:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-09-07 23:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-09-07 23:40:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2025-09-07 23:59:24 +0000"
     },
     "done": true
   },
@@ -8674,12 +8734,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-09-07 23:40:10 +0000"
@@ -8689,30 +8743,6 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-09-07 23:40:10 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cherry_shrub": {
-    "criteria": {
-      "has_cherry_sapling": "2025-09-07 23:40:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-09-07 23:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
     },
     "done": true
   },
@@ -8728,27 +8758,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-09-07 23:56:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-07 23:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-09-08 00:07:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-09-07 23:59:24 +0000"
     },
     "done": true
   },
@@ -8758,21 +8770,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-09-07 23:58:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-09-07 23:40:10 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:warhammer": {
-    "criteria": {
-      "has_warhammer": "2025-09-07 23:46:32 +0000"
     },
     "done": true
   },
@@ -8782,117 +8782,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-09-07 23:59:24 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/crystal_display": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
-    },
-    "done": true
-  },
-  "crockpot:gnaw_will_be_happy": {
-    "criteria": {
-      "veg_stinger": "2025-09-07 23:45:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
-    "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-09-07 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/misc/nautilus_shell_from_smelting_embedded_ammonite": {
-    "criteria": {
-      "has_embedded_ammonite": "2025-09-07 22:59:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-09-07 23:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-09-08 00:07:02 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:quarterstaff": {
-    "criteria": {
-      "has_quarterstaff": "2025-09-07 23:43:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-09-07 23:59:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-07 23:05:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2025-09-07 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
-    "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/fodder": {
-    "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
     },
     "done": true
   },
@@ -8902,93 +8794,9 @@
     },
     "done": true
   },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2025-09-07 23:43:56 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:parrying_dagger": {
-    "criteria": {
-      "has_parrying_dagger": "2025-09-07 23:48:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-07 23:05:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-07 23:40:10 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/bolt": {
-    "criteria": {
-      "has_feather": "2025-09-07 23:40:21 +0000"
-    },
-    "done": true
-  },
-  "beachparty:main/hoarder": {
-    "criteria": {
-      "beachparty:coconut_cocktail": "2025-09-07 23:45:37 +0000"
-    },
-    "done": false
-  },
-  "spartanweaponry:pike": {
-    "criteria": {
-      "has_pike": "2025-09-07 23:46:29 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_bolt": {
-    "criteria": {
-      "has_feather": "2025-09-07 23:40:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_cherry_chair": {
-    "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-09-07 23:59:24 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2025-09-07 23:47:55 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
-    "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-09-07 23:59:24 +0000"
     },
     "done": true
   },
@@ -9004,39 +8812,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-09-07 23:58:50 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/diamond_bolt": {
-    "criteria": {
-      "has_feather": "2025-09-07 23:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-09-07 23:05:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-09-07 23:40:10 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
-    "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2025-09-07 23:05:21 +0000"
     },
     "done": true
   },
@@ -9046,45 +8824,69 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/misc/nautilus_shell_from_blasting_embedded_ammonite": {
-    "criteria": {
-      "has_embedded_ammonite": "2025-09-07 22:59:07 +0000"
-    },
-    "done": true
-  },
-  "beachparty:main/get_any_cocktail": {
-    "criteria": {
-      "have_any_cocktail": "2025-09-07 23:45:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:battle_hammer": {
-    "criteria": {
-      "has_battle_hammer": "2025-09-07 23:48:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
-    "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:main/get_a_thermometer": {
-    "criteria": {
-      "inventory_changed": "2025-09-07 23:46:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-09-07 23:40:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "supplementaries:recipes/feather_block": {
     "criteria": {
-      "has_hay_block": "2025-09-07 23:59:52 +0000"
+      "has_feather": "2025-09-07 23:40:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-09-07 23:40:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-09-07 23:40:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-09-07 23:40:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
+    "criteria": {
+      "has_cherry_sapling": "2025-09-07 23:40:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:quarterstaff": {
+    "criteria": {
+      "has_quarterstaff": "2025-09-07 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-09-07 23:43:56 +0000"
+    },
+    "done": true
+  },
+  "crockpot:gnaw_will_be_happy": {
+    "criteria": {
+      "veg_stinger": "2025-09-07 23:45:30 +0000"
+    },
+    "done": false
+  },
+  "beachparty:main/hoarder": {
+    "criteria": {
+      "beachparty:coconut_cocktail": "2025-09-07 23:45:37 +0000"
+    },
+    "done": false
+  },
+  "beachparty:main/get_any_cocktail": {
+    "criteria": {
+      "have_any_cocktail": "2025-09-07 23:45:37 +0000"
     },
     "done": true
   },
@@ -9094,9 +8896,231 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+  "spartanweaponry:pike": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-09-07 23:05:32 +0000"
+      "has_pike": "2025-09-07 23:46:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-09-07 23:46:32 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:main/get_a_thermometer": {
+    "criteria": {
+      "inventory_changed": "2025-09-07 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-09-07 23:47:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-09-07 23:48:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2025-09-07 23:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-07 23:50:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-09-07 23:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-07 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-09-07 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-09-07 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-09-07 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-07 23:59:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_cherry_chair": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-08 00:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-08 00:07:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-09-08 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-09-08 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-09-08 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-09-08 02:29:04 +0000"
     },
     "done": true
   },
