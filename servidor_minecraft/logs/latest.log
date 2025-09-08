@@ -5375,3 +5375,59 @@ ModdedBiomeSource (75843693)
 [08Sep2025 06:54:39.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
 [08Sep2025 06:54:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [08Sep2025 06:54:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 06:57:33.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull drowned
+[08Sep2025 06:57:35.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 06:57:36.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 06:57:48.547] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 6.267 ms. 7230/7999 recipes are parallelized.
+[08Sep2025 06:58:41.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[08Sep2025 06:58:41.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[08Sep2025 06:58:41.008] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
+[08Sep2025 06:58:41.074] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Sep2025 06:58:41.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zlashh[/127.113.86.4:43841] logged in with entity id 3160 at (-1373.3002572406072, 26.0, 63.56697113860861)
+[08Sep2025 06:58:41.088] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 06:58:41.096] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zlashh
+[08Sep2025 06:58:41.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh joined the game
+[08Sep2025 06:58:41.717] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zlashh (18)
+[08Sep2025 06:58:41.717] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zlashh
+[08Sep2025 06:58:41.734] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 06:58:41.734] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 06:58:41.734] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 06:58:41.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 06:58:41.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 06:58:41.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 06:58:41.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 06:58:41.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 06:58:41.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 06:58:41.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 06:58:41.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 06:58:41.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 06:58:41.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 06:58:41.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 06:58:41.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 06:58:41.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 06:58:41.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 06:58:41.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 07:00:43.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[08Sep2025 07:00:45.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:00:46.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 07:02:13.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[08Sep2025 07:02:15.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:02:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[08Sep2025 07:02:17.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 07:02:17.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:02:24.868] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Sep2025 07:02:24.869] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Sep2025 07:02:24.869] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Sep2025 07:02:27.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported Zlashh to skull]
+[08Sep2025 07:02:54.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[08Sep2025 07:02:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:02:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported Zlashh to skull]
+[08Sep2025 07:03:11.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 07:04:58.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported Zlashh to skull]
+[08Sep2025 07:05:22.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Nightmare Stalker
+[08Sep2025 07:05:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:05:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 07:05:28.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Nightmare Stalker
+[08Sep2025 07:05:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:05:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 07:06:10.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
