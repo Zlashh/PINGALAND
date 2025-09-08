@@ -3466,6 +3466,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_green": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_katana": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
@@ -3646,9 +3652,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/green_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-09-08 19:05:09 +0000"
     },
     "done": true
   },
@@ -3754,6 +3772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
@@ -3769,6 +3793,12 @@
   "valhelsia_structures:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-09-08 18:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
     },
     "done": true
   },
@@ -3814,9 +3844,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_pane_green": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_longbow": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -3862,6 +3904,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/dirt_bricks_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/light_gray_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-09-08 19:00:19 +0000"
@@ -3895,6 +3943,18 @@
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_magnolia": {
     "criteria": {
       "has_item": "2025-09-08 18:48:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_green": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -3988,6 +4048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -4030,6 +4096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-09-08 18:59:59 +0000"
@@ -4069,6 +4141,12 @@
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-09-08 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-08 19:08:13 +0000"
     },
     "done": true
   },
@@ -4186,6 +4264,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-08 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_tile_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_boomerang": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
@@ -4195,6 +4285,12 @@
   "valhelsia_structures:recipes/building_blocks/black_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -4246,6 +4342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "legendary_additions:recipes/decorations/tribal_torch": {
     "criteria": {
       "has_torch": "2025-09-08 18:47:34 +0000"
@@ -4264,6 +4366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
@@ -4279,6 +4387,18 @@
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-09-08 19:00:01 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/dye_green_bedroll": {
+    "criteria": {
+      "has_needed_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green_dye": {
+    "criteria": {
+      "forge:dyes/green": "2025-09-08 19:03:49 +0000"
     },
     "done": true
   },
@@ -4378,6 +4498,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_green": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_green": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_jungle_stool": {
     "criteria": {
       "has_white_wool": "2025-09-08 18:43:08 +0000"
@@ -4474,9 +4606,21 @@
     },
     "done": true
   },
+  "environmental:recipes/misc/mud_ball_from_dirt": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-09-08 18:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -4489,6 +4633,12 @@
   "mysticsbiomes:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -4555,11 +4705,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-09-08 18:45:59 +0000",
+      "potato": "2025-09-08 19:07:21 +0000",
       "rotten_flesh": "2025-09-08 18:53:53 +0000",
       "beetroot": "2025-09-08 19:02:41 +0000",
       "carrot": "2025-09-08 18:58:22 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-09-08 19:06:03 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/daub": {
     "criteria": {
@@ -4582,6 +4739,12 @@
   "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_brick_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
     },
     "done": true
   },
@@ -4669,6 +4832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
+    },
+    "done": true
+  },
   "atmospheric:recipes/transportation/yucca_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -4705,6 +4874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
@@ -4729,6 +4904,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/hydralux_petal_block_green": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "atmospheric:recipes/transportation/morado_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -4738,6 +4919,18 @@
   "spartanweaponry:recipes/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-09-08 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -4891,6 +5084,12 @@
     },
     "done": true
   },
+  "legendarysurvivaloverhaul:recipes/food/healing_herbs": {
+    "criteria": {
+      "has_flower": "2025-09-08 19:05:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_dark_oak_chair": {
     "criteria": {
       "has_white_wool": "2025-09-08 18:43:08 +0000"
@@ -4909,6 +5108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-09-08 18:57:45 +0000"
@@ -4924,6 +5129,30 @@
   "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
     "criteria": {
       "has_magnolia_planks": "2025-09-08 18:48:53 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-08 19:10:11 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/dirt_tile_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_brick_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -4948,6 +5177,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-09-08 18:43:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-08 19:06:03 +0000"
     },
     "done": true
   },
@@ -5107,6 +5342,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/dirt_tiles_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_battle_hammer": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
@@ -5137,6 +5378,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_framed_green": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-09-08 19:00:19 +0000"
@@ -5152,6 +5399,18 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_cherry_stool": {
     "criteria": {
       "has_white_wool": "2025-09-08 18:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -5185,6 +5444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
@@ -5215,6 +5480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-09-08 18:42:53 +0000"
@@ -5233,6 +5504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -5242,6 +5519,12 @@
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-09-08 19:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -5263,6 +5546,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/willow_sign": {
     "criteria": {
       "has_willow_planks": "2025-09-08 18:41:33 +0000"
@@ -5272,6 +5567,12 @@
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-09-08 19:09:23 +0000"
     },
     "done": true
   },
@@ -5314,6 +5615,12 @@
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-09-08 19:00:01 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_tile_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
     },
     "done": true
   },
@@ -5473,6 +5780,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/misc/warm_string_from_sewing_string_sun_fern_leaf": {
     "criteria": {
       "has_coat": "2025-09-08 19:02:45 +0000"
@@ -5542,6 +5855,12 @@
   "legendarysurvivaloverhaul:recipes/misc/plaster": {
     "criteria": {
       "has_wool": "2025-09-08 18:43:08 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_bricks": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
     },
     "done": true
   },
@@ -5689,6 +6008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-08 19:09:23 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-09-08 19:00:19 +0000"
@@ -5720,6 +6045,12 @@
   "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
     "criteria": {
       "has_hay_block": "2025-09-08 18:57:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_green": {
+    "criteria": {
+      "has_green_dye": "2025-09-08 19:03:49 +0000"
     },
     "done": true
   },
@@ -5774,6 +6105,12 @@
   "betterend:recipes/misc/copy_leather_handle_attachment": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/dirt_brick_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-09-08 19:10:11 +0000"
     },
     "done": true
   },

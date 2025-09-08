@@ -5384,3 +5384,15 @@ ModdedBiomeSource (1f5ceff1)
 [08Sep2025 19:04:04.140] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
 [08Sep2025 19:04:52.928] [Server thread/INFO] [Easy NPC/]: Opening menu 0b7f1c05-6b37-413c-99c0-3eec063bee73 for npc 7a04cd5a-80a1-4b24-9307-601c6c0927ed and player ServerPlayer['Pavks'/3868, l='ServerLevel[Legendary Edition]', x=353.31, y=65.00, z=216.96] with DialogMenuHandler{displayName=literal{Veteran Explorer}[style={color=#FFFFFF}]}
 [08Sep2025 19:06:03.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Crops of the Wild]
+[08Sep2025 19:08:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Isn't It Iron Pick]
+[08Sep2025 19:13:31.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was blown up by Creeper
+[08Sep2025 19:13:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 19:15:15.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks was slain by Baby Skeleton
+[08Sep2025 19:15:17.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 19:16:59.116] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 134.0 μs. 211/217 recipes are parallelized.
+[08Sep2025 19:17:24.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull lost connection: Disconnected
+[08Sep2025 19:17:24.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull left the game
+[08Sep2025 19:17:24.780] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skull
+[08Sep2025 19:17:50.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[08Sep2025 19:17:50.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[08Sep2025 19:17:50.065] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
