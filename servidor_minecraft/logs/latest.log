@@ -5509,3 +5509,16 @@ ModdedBiomeSource (75843693)
 [08Sep2025 07:22:16.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [08Sep2025 07:24:39.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Take Aim]
 [08Sep2025 07:27:18.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has reached the goal [Arachnophobe's Nightmare]
+[08Sep2025 07:29:24.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[08Sep2025 07:29:26.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:32:36.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Stray
+[08Sep2025 07:32:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:33:55.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Stray
+[08Sep2025 07:33:55.258] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08Sep2025 07:33:55.258] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[08Sep2025 07:33:55.258] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[08Sep2025 07:33:55.259] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[08Sep2025 07:33:55.259] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[08Sep2025 07:33:56.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:36:10.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was killed trying to hurt Skeleton
+[08Sep2025 07:36:13.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
