@@ -5248,3 +5248,29 @@ ModdedBiomeSource (1f5ceff1)
 [08Sep2025 17:48:11.398] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
 [08Sep2025 17:48:11.440] [Server thread/WARN] [ModernFix/]: Dedicated server took 121.512 seconds to load
 [08Sep2025 17:48:15.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3849ms or 76 ticks behind
+[08Sep2025 18:08:29.349] [Netty Epoll Server IO #1/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.common.mixins.json:PacketEncoderMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:PacketEncoderMixin from mod connectivity->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/protocol/Packet;Lio/netty/buffer/ByteBuf;)I with priority 1000
+[08Sep2025 18:13:17.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zlashh[/127.113.86.4:43547] logged in with entity id 113 at (-1388.8533441152097, 17.0, 64.92877907662064)
+[08Sep2025 18:13:17.646] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 18:13:17.664] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zlashh
+[08Sep2025 18:13:17.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh joined the game
+[08Sep2025 18:13:30.055] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zlashh (18)
+[08Sep2025 18:13:30.059] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zlashh
+[08Sep2025 18:13:30.060] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 18:13:30.063] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 18:13:30.067] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 18:13:30.067] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 18:13:30.072] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 18:13:30.072] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 18:13:30.074] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 18:13:30.075] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 18:13:30.083] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 18:13:30.084] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 18:13:30.085] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 18:13:30.086] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 18:13:30.090] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 18:13:30.091] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 18:13:30.094] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 18:13:30.095] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 18:13:30.097] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 18:13:30.099] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 18:13:30.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13660ms or 273 ticks behind
