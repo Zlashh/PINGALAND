@@ -29,9 +29,27 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-09-08 05:33:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_glaive": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_longsword": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -104,6 +122,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-09-08 05:27:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -182,6 +206,12 @@
   "betternether:recipes/decorations/jungle_bar_stool": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "forge:dyes/brown": "2025-09-08 05:32:52 +0000"
     },
     "done": true
   },
@@ -413,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-08 05:30:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2025-09-08 05:27:16 +0000"
@@ -428,6 +464,12 @@
   "betterend:recipes/decorations/jellyshroom_sign": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -617,6 +659,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_battleaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "dune_beach": "2025-09-08 05:22:15 +0000"
@@ -653,9 +701,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-08 05:30:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_throwing_knife": {
     "criteria": {
       "has_wood": "2025-09-08 05:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -743,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-09-08 05:27:16 +0000"
@@ -767,9 +833,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
       "has_planks": "2025-09-08 05:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -845,6 +923,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/iron_bulb_lantern_brown": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_ender_pearl": "2025-09-08 05:29:37 +0000"
@@ -863,6 +947,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_chair": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
@@ -872,6 +968,12 @@
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -911,9 +1013,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_taburet": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -995,6 +1115,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_brown": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-09-08 05:27:45 +0000"
@@ -1007,6 +1133,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-09-08 05:29:37 +0000"
@@ -1016,6 +1148,12 @@
   "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-09-08 05:27:16 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -1181,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-08 05:30:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_brown_mushroom": "2025-09-08 05:27:11 +0000"
@@ -1271,6 +1415,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/acacia_bar_stool": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
@@ -1340,7 +1490,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-09-08 05:24:54 +0000",
+      "willow_forest": "2025-09-08 05:33:11 +0000",
       "poppy_fields": "2025-09-08 05:24:55 +0000",
+      "grassy_beach": "2025-09-08 05:33:07 +0000",
       "cold_river": "2025-09-08 05:24:56 +0000"
     },
     "done": false
@@ -1378,6 +1530,12 @@
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-09-08 05:32:33 +0000"
     },
     "done": true
   },
@@ -1474,7 +1632,9 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-09-08 05:24:54 +0000",
+      "willow_forest": "2025-09-08 05:33:11 +0000",
       "poppy_fields": "2025-09-08 05:24:55 +0000",
+      "grassy_beach": "2025-09-08 05:33:07 +0000",
       "cold_river": "2025-09-08 05:24:56 +0000"
     },
     "done": false
@@ -1485,9 +1645,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-08 05:32:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/dragon_tree_gate": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
     },
     "done": true
   },
@@ -1521,9 +1693,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-08 05:30:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_taburet": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_brown": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
     },
     "done": true
   },
@@ -1536,6 +1720,12 @@
   "betternether:recipes/transportation/activator_rail": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_brown": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
     },
     "done": true
   },
@@ -1605,15 +1795,33 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_pane_brown": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_framed_brown": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
       "has_planks": "2025-09-08 05:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-08 05:30:13 +0000"
     },
     "done": true
   },
@@ -1632,6 +1840,12 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-09-08 05:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-08 05:32:52 +0000"
     },
     "done": true
   },
@@ -1719,6 +1933,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
@@ -1734,6 +1954,24 @@
   "spartanweaponry:recipes/wooden_spear": {
     "criteria": {
       "has_wood": "2025-09-08 05:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -1770,6 +2008,12 @@
   "betternether:recipes/decorations/bamboo_chair": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/dye_brown_bedroll": {
+    "criteria": {
+      "has_needed_dye": "2025-09-08 05:32:52 +0000"
     },
     "done": true
   },
@@ -1815,6 +2059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
@@ -1854,6 +2104,12 @@
   "betterend:recipes/redstone/umbrella_tree_gate": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -1914,6 +2170,12 @@
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2025-09-08 05:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-08 05:32:52 +0000"
     },
     "done": true
   },
@@ -1989,6 +2251,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/brown_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-09-08 05:32:52 +0000"
+    },
+    "done": true
+  },
   "atmospheric:recipes/transportation/rosewood_boat": {
     "criteria": {
       "in_water": "2025-09-08 05:24:58 +0000"
@@ -2031,6 +2299,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-09-08 05:27:16 +0000"
@@ -2046,6 +2320,12 @@
   "betternether:recipes/decorations/nether_reed_bar_stool": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -2175,6 +2455,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_bulb_lantern_brown": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-09-08 05:27:16 +0000"
@@ -2205,6 +2491,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-09-08 05:27:16 +0000"
@@ -2220,6 +2512,12 @@
   "betterend:recipes/decorations/umbrella_tree_sign": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-09-08 05:33:05 +0000"
     },
     "done": true
   },
@@ -2325,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "beachparty:main/root": {
     "criteria": {
       "example_criterion": "2025-09-08 05:22:15 +0000"
@@ -2334,6 +2638,12 @@
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-09-08 05:22:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_brown": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
     },
     "done": true
   },
@@ -2376,6 +2686,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -2472,6 +2788,12 @@
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -2585,6 +2907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-09-08 05:32:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_chair": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
@@ -2642,6 +2970,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-09-08 05:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-08 05:30:13 +0000"
     },
     "done": true
   },
@@ -2705,6 +3039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-09-08 05:32:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
@@ -2759,9 +3099,21 @@
     },
     "done": true
   },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_fence": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -2786,6 +3138,12 @@
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-09-08 05:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-08 05:30:20 +0000"
     },
     "done": true
   },
@@ -2828,6 +3186,12 @@
   "betternether:recipes/decorations/wart_chair": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_flanged_mace": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -2879,6 +3243,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_heavy_crossbow": {
     "criteria": {
       "has_wood": "2025-09-08 05:27:16 +0000"
@@ -2903,9 +3273,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_pike": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },
@@ -2939,6 +3321,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-08 05:27:16 +0000"
@@ -2951,9 +3345,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-09-08 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-08 05:32:24 +0000"
     },
     "done": true
   },

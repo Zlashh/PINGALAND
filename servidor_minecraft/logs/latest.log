@@ -5473,3 +5473,38 @@ ModdedBiomeSource (2f974110)
 [08Sep2025 05:29:38.396] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [08Sep2025 05:29:38.396] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [08Sep2025 05:29:38.396] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 05:30:57.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Reaping What You Sow]
+[08Sep2025 05:31:09.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dana'/10745, l='ServerLevel[Legendary Edition]', x=-1396.70, y=63.00, z=46.10] died, message: 'Dana hit the ground too hard'
+[08Sep2025 05:31:09.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dana'/10745, l='ServerLevel[Legendary Edition]', x=-1396.70, y=63.00, z=46.10] died: Dana fell from a high place
+[08Sep2025 05:31:18.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[08Sep2025 05:31:20.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 05:31:37.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported Zlashh to skull]
+[08Sep2025 05:31:49.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[08Sep2025 05:31:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 05:31:58.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported Zlashh to skull]
+[08Sep2025 05:32:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Stone Age]
+[08Sep2025 05:32:24.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[08Sep2025 05:32:25.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 05:32:28.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[08Sep2025 05:32:29.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 05:32:33.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Getting an Upgrade]
+[08Sep2025 05:33:05.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks was shot by Pillager
+[08Sep2025 05:33:06.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 05:33:08.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 05:33:22.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Cover Me with Diamonds]
+[08Sep2025 05:33:36.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pavks lost connection: Disconnected
+[08Sep2025 05:33:36.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks left the game
+[08Sep2025 05:33:36.680] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pavks
+[08Sep2025 05:33:45.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[08Sep2025 05:33:46.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 05:33:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 05:33:59.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[08Sep2025 05:34:01.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 05:34:02.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[08Sep2025 05:34:04.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 05:34:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 05:34:57.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Will it Come Back?]
+[08Sep2025 05:35:47.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Burying the Hatchet]
+[08Sep2025 05:36:14.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [An Assassin's Need]
+[08Sep2025 05:36:33.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 05:38:39.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
