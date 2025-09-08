@@ -5358,3 +5358,52 @@ ModdedBiomeSource (2f974110)
 [08Sep2025 04:34:42.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
 [08Sep2025 04:37:56.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Angelo'/10803, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.92] died, message: 'Angelo hit the ground too hard'
 [08Sep2025 04:37:56.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Angelo'/10803, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.92] died: Angelo fell from a high place
+[08Sep2025 04:39:10.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull lost connection: Disconnected
+[08Sep2025 04:39:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull left the game
+[08Sep2025 04:39:10.199] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skull
+[08Sep2025 04:40:21.153] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Sep2025 04:40:21.153] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Sep2025 04:40:21.153] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Sep2025 04:42:28.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: skull[/127.62.5.236:51517] logged in with entity id 14035 at (143.77470607639773, 70.162141421027, -327.00991030804323)
+[08Sep2025 04:42:28.489] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 04:42:28.498] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player skull
+[08Sep2025 04:42:28.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull joined the game
+[08Sep2025 04:42:28.963] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of skull (18)
+[08Sep2025 04:42:28.965] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to skull
+[08Sep2025 04:42:28.966] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 04:42:28.967] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 04:42:28.967] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 04:42:28.967] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 04:42:28.967] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 04:42:28.967] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 04:42:28.967] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 04:42:28.968] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 04:43:11.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was killed
+[08Sep2025 04:43:11.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Killed skull]
+[08Sep2025 04:43:12.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 04:44:16.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Set the time to 1000]
+[08Sep2025 04:44:24.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was killed whilst fighting Skeleton
+[08Sep2025 04:44:24.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Killed skull]
+[08Sep2025 04:44:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 04:45:19.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 04:46:37.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Monster Hunter]
+[08Sep2025 04:47:22.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Zombie
+[08Sep2025 04:47:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 04:47:25.008] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/16747, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[08Sep2025 04:47:25.010] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/16747, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[08Sep2025 04:47:25.011] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Humanoid (slim)'/16747, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80].
+[08Sep2025 04:47:25.018] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@4ab81d9d, net.minecraft.world.item.trading.MerchantOffer@65b3eea8, net.minecraft.world.item.trading.MerchantOffer@7304302b, net.minecraft.world.item.trading.MerchantOffer@5691586b, net.minecraft.world.item.trading.MerchantOffer@5ccff3d1, net.minecraft.world.item.trading.MerchantOffer@26f3904e, net.minecraft.world.item.trading.MerchantOffer@742469d3, net.minecraft.world.item.trading.MerchantOffer@28aa253c, net.minecraft.world.item.trading.MerchantOffer@bd80a83, net.minecraft.world.item.trading.MerchantOffer@31939a56] for HumanoidSlim['Humanoid (slim)'/16747, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80]
+[08Sep2025 04:47:26.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 04:48:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [A Bigger Blade]
+[08Sep2025 04:49:22.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Zombie
+[08Sep2025 04:49:24.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
