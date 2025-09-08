@@ -5522,3 +5522,19 @@ ModdedBiomeSource (75843693)
 [08Sep2025 07:33:56.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [08Sep2025 07:36:10.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was killed trying to hurt Skeleton
 [08Sep2025 07:36:13.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:39:08.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Zlashh
+[08Sep2025 07:39:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:39:13.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 07:39:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by skull
+[08Sep2025 07:39:31.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:39:36.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported Zlashh to skull]
+[08Sep2025 07:39:37.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 07:39:57.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 07:40:47.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull lost connection: Disconnected
+[08Sep2025 07:40:47.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull left the game
+[08Sep2025 07:40:47.455] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skull
+[08Sep2025 07:43:28.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Stray
+[08Sep2025 07:43:30.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 07:47:20.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[08Sep2025 07:47:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[08Sep2025 07:47:20.754] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
