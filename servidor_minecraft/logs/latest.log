@@ -5417,3 +5417,5 @@ ModdedBiomeSource (2f974110)
 [08Sep2025 04:55:20.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
 [08Sep2025 04:55:27.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Cover Me with Diamonds]
 [08Sep2025 04:55:38.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Blunt-force Trauma]
+[08Sep2025 05:11:16.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Maybell'/10802, l='ServerLevel[Legendary Edition]', x=-1436.30, y=63.00, z=19.72] died, message: 'Maybell hit the ground too hard'
+[08Sep2025 05:11:16.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Maybell'/10802, l='ServerLevel[Legendary Edition]', x=-1436.30, y=63.00, z=19.72] died: Maybell fell from a high place
