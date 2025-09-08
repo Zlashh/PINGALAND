@@ -5330,3 +5330,31 @@ ModdedBiomeSource (2f974110)
 [08Sep2025 04:19:45.792] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [08Sep2025 04:19:45.793] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [08Sep2025 04:19:45.793] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 04:30:55.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Stray
+[08Sep2025 04:30:57.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 04:34:41.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: skull[/127.62.5.236:53901] logged in with entity id 11664 at (85.6610086951533, 64.0, -326.95964867357503)
+[08Sep2025 04:34:41.727] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 04:34:41.742] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player skull
+[08Sep2025 04:34:41.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull joined the game
+[08Sep2025 04:34:42.983] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of skull (18)
+[08Sep2025 04:34:42.984] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to skull
+[08Sep2025 04:34:42.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 04:34:42.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 04:34:42.986] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 04:34:42.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 04:34:42.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 04:34:42.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 04:34:42.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 04:34:42.987] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 04:37:56.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Angelo'/10803, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.92] died, message: 'Angelo hit the ground too hard'
+[08Sep2025 04:37:56.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Angelo'/10803, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.92] died: Angelo fell from a high place
