@@ -9582,6 +9582,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-09-08 03:19:00 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_hanging_sign": {
     "criteria": {
       "has_chain": "2025-09-08 03:26:00 +0000"
@@ -9660,18 +9666,6 @@
     },
     "done": true
   },
-  "spartanweaponry:halberd": {
-    "criteria": {
-      "has_halberd": "2025-09-08 03:32:51 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/oak_palisade": {
-    "criteria": {
-      "has_log": "2025-09-08 03:27:09 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-09-08 03:26:00 +0000"
@@ -9690,12 +9684,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
-    "criteria": {
-      "has_log": "2025-09-08 03:27:09 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/nether_sakura_hanging_sign": {
     "criteria": {
       "has_chain": "2025-09-08 03:26:00 +0000"
@@ -9705,12 +9693,6 @@
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-09-08 03:26:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-09-08 03:27:09 +0000"
     },
     "done": true
   },
@@ -9726,12 +9708,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-09-08 03:19:00 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-09-08 03:26:00 +0000"
@@ -9741,12 +9717,6 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-09-08 03:26:00 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/oak_post": {
-    "criteria": {
-      "has_item": "2025-09-08 03:27:09 +0000"
     },
     "done": true
   },
@@ -9765,6 +9735,48 @@
   "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
     "criteria": {
       "has_chain": "2025-09-08 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-09-08 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-09-08 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-08 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/oak_post": {
+    "criteria": {
+      "has_item": "2025-09-08 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-09-08 03:32:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-09-08 03:35:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-09-08 03:53:24 +0000"
     },
     "done": true
   },
