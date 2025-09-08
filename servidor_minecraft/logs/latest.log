@@ -5305,3 +5305,73 @@ ModdedBiomeSource (75843693)
 [08Sep2025 06:43:22.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [08Sep2025 06:43:22.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [08Sep2025 06:43:22.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 06:46:54.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[08Sep2025 06:46:54.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[08Sep2025 06:46:54.312] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
+[08Sep2025 06:46:54.396] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Sep2025 06:53:33.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: skull[/127.62.5.236:43573] logged in with entity id 1043 at (-1375.5632712689012, 25.0, 66.68856498520117)
+[08Sep2025 06:53:33.783] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 06:53:33.797] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player skull
+[08Sep2025 06:53:33.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull joined the game
+[08Sep2025 06:53:34.484] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of skull (18)
+[08Sep2025 06:53:34.484] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to skull
+[08Sep2025 06:53:34.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 06:53:34.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 06:53:34.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 06:53:34.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 06:53:34.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 06:53:41.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[08Sep2025 06:53:44.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 06:53:48.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to skull]
+[08Sep2025 06:53:48.667] [C2ME worker #1/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[08Sep2025 06:53:48.668] [C2ME worker #1/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[08Sep2025 06:53:48.669] [C2ME worker #1/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER
+[08Sep2025 06:53:48.669] [C2ME worker #1/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/BlockModel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[08Sep2025 06:53:48.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zlashh[/127.113.86.4:44397] logged in with entity id 1678 at (-1373.300000011921, 26.0, 63.69999998807907)
+[08Sep2025 06:53:48.790] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 06:53:48.800] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zlashh
+[08Sep2025 06:53:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh joined the game
+[08Sep2025 06:53:49.906] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zlashh (18)
+[08Sep2025 06:53:49.906] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zlashh
+[08Sep2025 06:53:49.907] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 06:53:49.907] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 06:53:49.907] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 06:53:49.907] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 06:53:49.907] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 06:53:49.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 06:53:49.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 06:53:49.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 06:53:49.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 06:53:49.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 06:53:49.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 06:53:49.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 06:53:49.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 06:53:49.908] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 06:53:49.909] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 06:53:49.909] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 06:53:49.909] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 06:53:49.909] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 06:54:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[08Sep2025 06:54:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [The Fourth Horseman]
+[08Sep2025 06:54:14.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Reaping What You Sow]
+[08Sep2025 06:54:14.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [An Assassin's Need]
+[08Sep2025 06:54:14.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Will it Come Back?]
+[08Sep2025 06:54:14.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Burying the Hatchet]
+[08Sep2025 06:54:15.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [...And My Axe!]
+[08Sep2025 06:54:23.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [A Cut Above the Rest]
+[08Sep2025 06:54:39.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[08Sep2025 06:54:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 06:54:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
