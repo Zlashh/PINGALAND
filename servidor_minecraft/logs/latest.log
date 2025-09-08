@@ -5344,3 +5344,43 @@ ModdedBiomeSource (1f5ceff1)
 [08Sep2025 18:56:43.161] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/13060, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
 [08Sep2025 18:56:43.162] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Veteran Explorer'/13060, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50].
 [08Sep2025 18:56:43.162] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@46991f75, net.minecraft.world.item.trading.MerchantOffer@482d6a3c, net.minecraft.world.item.trading.MerchantOffer@5ee3fa8a, net.minecraft.world.item.trading.MerchantOffer@67f7f3, net.minecraft.world.item.trading.MerchantOffer@e8b223d, net.minecraft.world.item.trading.MerchantOffer@2dd4c55a, net.minecraft.world.item.trading.MerchantOffer@6ca24dc0, net.minecraft.world.item.trading.MerchantOffer@5345e7c8] for HumanoidSlim['Veteran Explorer'/13060, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50]
+[08Sep2025 18:59:59.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Suit Up]
+[08Sep2025 19:00:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Ice Bucket Challenge]
+[08Sep2025 19:00:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Diamonds!]
+[08Sep2025 19:00:18.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Branwen'/13059, l='ServerLevel[Legendary Edition]', x=353.57, y=60.05, z=197.92] died, message: 'Branwen drowned'
+[08Sep2025 19:00:18.305] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Branwen'/13059, l='ServerLevel[Legendary Edition]', x=353.57, y=60.05, z=197.92] died: Branwen drowned
+[08Sep2025 19:00:19.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Acquire Hardware]
+[08Sep2025 19:00:39.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jose'/179, l='ServerLevel[Legendary Edition]', x=-1401.19, y=64.00, z=43.22] died, message: 'Jose hit the ground too hard'
+[08Sep2025 19:00:39.350] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jose'/179, l='ServerLevel[Legendary Edition]', x=-1401.19, y=64.00, z=43.22] died: Jose fell from a high place
+[08Sep2025 19:03:31.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks fell from a high place
+[08Sep2025 19:03:32.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 19:03:32.477] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/16444, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[08Sep2025 19:03:32.478] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/16444, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[08Sep2025 19:03:32.478] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Veteran Explorer'/16444, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50].
+[08Sep2025 19:03:32.478] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@15f84db4, net.minecraft.world.item.trading.MerchantOffer@7f26326f, net.minecraft.world.item.trading.MerchantOffer@7c247531, net.minecraft.world.item.trading.MerchantOffer@3391b1cf, net.minecraft.world.item.trading.MerchantOffer@6453cfe4, net.minecraft.world.item.trading.MerchantOffer@2a283c4b, net.minecraft.world.item.trading.MerchantOffer@757a59c2, net.minecraft.world.item.trading.MerchantOffer@4bdb816b] for HumanoidSlim['Veteran Explorer'/16444, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50]
+[08Sep2025 19:04:02.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: skull[/127.62.5.236:42047] logged in with entity id 16820 at (-1437.465630255812, 17.0, 64.82976121264055)
+[08Sep2025 19:04:02.632] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 19:04:02.642] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player skull
+[08Sep2025 19:04:02.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull joined the game
+[08Sep2025 19:04:04.135] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of skull (18)
+[08Sep2025 19:04:04.135] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to skull
+[08Sep2025 19:04:04.138] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 19:04:04.138] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 19:04:04.138] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 19:04:04.138] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 19:04:04.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 19:04:04.140] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 19:04:04.140] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 19:04:52.928] [Server thread/INFO] [Easy NPC/]: Opening menu 0b7f1c05-6b37-413c-99c0-3eec063bee73 for npc 7a04cd5a-80a1-4b24-9307-601c6c0927ed and player ServerPlayer['Pavks'/3868, l='ServerLevel[Legendary Edition]', x=353.31, y=65.00, z=216.96] with DialogMenuHandler{displayName=literal{Veteran Explorer}[style={color=#FFFFFF}]}
+[08Sep2025 19:06:03.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Crops of the Wild]
