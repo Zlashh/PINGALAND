@@ -104,3 +104,11 @@
 [08Sep2025 03:15:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
 [08Sep2025 03:15:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [08Sep2025 03:19:00.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Tools of the Trade]
+[08Sep2025 03:27:23.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was blown up by Creeper
+[08Sep2025 03:27:25.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 03:32:51.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Halberdier]
+[08Sep2025 03:33:59.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Val'/96740, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.91] died, message: 'Val hit the ground too hard'
+[08Sep2025 03:33:59.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Val'/96740, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.91] died: Val fell from a high place
+[08Sep2025 03:34:35.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh moved wrongly!
+[08Sep2025 03:34:45.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[08Sep2025 03:34:46.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
