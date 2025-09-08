@@ -5821,6 +5821,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-08 04:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-08 04:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-09-08 04:51:22 +0000"
@@ -6025,6 +6037,12 @@
     },
     "done": true
   },
+  "legendarysurvivaloverhaul:recipes/food/golden_apple_juice": {
+    "criteria": {
+      "has_golden_apple": "2025-09-08 04:55:34 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-09-08 04:51:22 +0000"
@@ -6040,6 +6058,12 @@
   "decorative_blocks:recipes/building_blocks/oak_support": {
     "criteria": {
       "has_plank": "2025-09-08 04:51:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-09-08 04:55:38 +0000"
     },
     "done": true
   },
@@ -6088,6 +6112,12 @@
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-09-08 04:50:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-08 04:55:35 +0000"
     },
     "done": true
   },
@@ -6148,6 +6178,12 @@
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-08 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-08 04:55:35 +0000"
     },
     "done": true
   },
@@ -6268,6 +6304,12 @@
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-09-08 04:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-08 04:55:35 +0000"
     },
     "done": true
   },
