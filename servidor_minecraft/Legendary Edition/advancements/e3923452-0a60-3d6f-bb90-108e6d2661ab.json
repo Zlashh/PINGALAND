@@ -3426,6 +3426,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_rapier": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
@@ -3441,6 +3453,12 @@
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_halberd": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -3516,6 +3534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-09-08 19:00:01 +0000"
@@ -3531,6 +3555,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -3552,9 +3582,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "crockpot:recipes/misc/crafting/birdcage": {
+    "criteria": {
+      "has_gold_ingots": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -3576,6 +3618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_hoe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-09-08 19:00:10 +0000"
@@ -3585,6 +3633,12 @@
   "spartanweaponry:recipes/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_lance": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -3609,6 +3663,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
     },
     "done": true
   },
@@ -3672,6 +3732,18 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/decorations/bedroll": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-09-08 19:05:09 +0000"
@@ -3726,9 +3798,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/netherite_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-08 19:25:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-08 18:58:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
     },
     "done": true
   },
@@ -3789,6 +3879,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-08 19:09:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-09-08 19:26:51 +0000"
     },
     "done": true
   },
@@ -3858,6 +3954,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_scythe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_glaive": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_pane_green": {
     "criteria": {
       "has_green_dye": "2025-09-08 19:03:49 +0000"
@@ -3876,9 +3984,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/medium_quiver_brace": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
     },
     "done": true
   },
@@ -3891,6 +4011,12 @@
   "bclib:recipes/misc/tag_bucket": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -3936,6 +4062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
     "criteria": {
       "has_hay_block": "2025-09-08 18:57:45 +0000"
@@ -3954,6 +4086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
@@ -3969,6 +4107,12 @@
   "betterend:recipes/misc/thallasium_bulb_lantern_green": {
     "criteria": {
       "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -3993,6 +4137,12 @@
   "spartanweaponry:recipes/iron_spear": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
     },
     "done": true
   },
@@ -4029,6 +4179,12 @@
   "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/large_canteen": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
     },
     "done": true
   },
@@ -4086,6 +4242,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_heavy_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-09-08 19:00:19 +0000"
@@ -4095,6 +4257,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-09-08 18:43:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -4113,6 +4281,12 @@
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
     },
     "done": true
   },
@@ -4188,9 +4362,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-09-08 19:29:31 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_plate_upgrade": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_battleaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -4242,6 +4428,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
@@ -4269,6 +4461,30 @@
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_throwing_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -4311,6 +4527,12 @@
   "spartanweaponry:recipes/diamond_boomerang": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_saber": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -4362,6 +4584,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_quarterstaff": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -4398,9 +4626,21 @@
     },
     "done": true
   },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-09-08 19:23:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/food/golden_dragon_fruit": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -4458,6 +4698,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
@@ -4485,6 +4731,18 @@
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_nugget": "2025-09-08 18:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_parrying_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_boomerang": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -4524,6 +4782,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-09-08 19:26:51 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_crimson_chair": {
     "criteria": {
       "has_white_wool": "2025-09-08 18:43:08 +0000"
@@ -4551,6 +4815,12 @@
   "betterend:recipes/misc/terminite_bulb_lantern_green": {
     "criteria": {
       "has_green_dye": "2025-09-08 19:03:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-09-08 19:26:51 +0000"
     },
     "done": true
   },
@@ -4590,9 +4860,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/joshua_shrub": {
     "criteria": {
       "has_joshua_sapling": "2025-09-08 19:14:03 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
     },
     "done": true
   },
@@ -4620,9 +4902,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-09-08 19:29:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/magnolia_sign": {
     "criteria": {
       "has_magnolia_planks": "2025-09-08 18:48:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-09-08 19:24:07 +0000"
     },
     "done": true
   },
@@ -4635,6 +4929,12 @@
   "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2025-09-08 19:28:18 +0000"
     },
     "done": true
   },
@@ -4752,6 +5052,18 @@
     },
     "done": true
   },
+  "legendarysurvivaloverhaul:recipes/misc/canteen": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/joshua_wood": {
     "criteria": {
       "has_log": "2025-09-08 19:14:01 +0000"
@@ -4772,6 +5084,12 @@
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-09-08 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -4871,6 +5189,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -4895,6 +5219,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-09-08 19:23:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_mangrove_chair": {
     "criteria": {
       "has_white_wool": "2025-09-08 18:43:08 +0000"
@@ -4910,6 +5246,18 @@
   "atmospheric:recipes/transportation/yucca_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-09-08 19:30:57 +0000"
     },
     "done": true
   },
@@ -4958,6 +5306,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-09-08 19:29:31 +0000"
     },
     "done": true
   },
@@ -5051,6 +5405,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_battle_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-09-08 19:00:19 +0000"
@@ -5111,6 +5471,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_coal_charcoal": "2025-09-08 19:23:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -5132,6 +5498,12 @@
   "betternether:recipes/building_blocks/whispering_gourd_lantern": {
     "criteria": {
       "has_torch": "2025-09-08 18:47:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_pike": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -5174,6 +5546,12 @@
   "spartanweaponry:recipes/iron_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -5249,6 +5627,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_longsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-09-08 18:43:07 +0000"
@@ -5291,6 +5675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/chain": {
     "criteria": {
       "has_ingot": "2025-09-08 19:00:19 +0000"
@@ -5327,6 +5717,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-08 19:25:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
@@ -5336,6 +5732,12 @@
   "spartanweaponry:recipes/diamond_longsword": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "crockpot:recipes/misc/crafting/crock_pot": {
+    "criteria": {
+      "has_coal": "2025-09-08 19:23:57 +0000"
     },
     "done": true
   },
@@ -5363,15 +5765,51 @@
     },
     "done": true
   },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-08 19:29:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magnolia_slab": {
     "criteria": {
       "has_magnolia_planks": "2025-09-08 18:48:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_warhammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/explorers_tent": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-09-08 19:26:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-08 19:25:19 +0000"
     },
     "done": true
   },
@@ -5489,6 +5927,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_flanged_mace": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-08 19:09:23 +0000"
@@ -5516,6 +5960,12 @@
   "decorative_blocks:recipes/building_blocks/bar_panel": {
     "criteria": {
       "has_ingot": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -5573,6 +6023,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2025-09-08 19:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
@@ -5591,6 +6053,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-09-08 19:23:58 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -5600,6 +6074,12 @@
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-09-08 19:00:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-08 19:25:19 +0000"
     },
     "done": true
   },
@@ -5693,6 +6173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-09-08 19:26:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-09-08 19:00:01 +0000"
@@ -5720,6 +6206,12 @@
   "regions_unexplored:recipes/redstone/willow_fence_gate": {
     "criteria": {
       "has_willow_planks": "2025-09-08 18:41:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-08 19:25:19 +0000"
     },
     "done": true
   },
@@ -5771,6 +6263,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_greatsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
@@ -5816,6 +6314,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_oak_chair": {
     "criteria": {
       "has_white_wool": "2025-09-08 18:43:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
     },
     "done": true
   },
@@ -5879,15 +6383,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-09-08 19:26:39 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-09-08 19:10:11 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_javelin": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/misc/warm_string_from_sewing_string_sun_fern_leaf": {
     "criteria": {
       "has_coat": "2025-09-08 19:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-09-08 19:23:58 +0000"
     },
     "done": true
   },
@@ -5945,6 +6467,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-09-08 19:29:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/willow_fence": {
     "criteria": {
       "has_willow_planks": "2025-09-08 18:41:33 +0000"
@@ -5954,6 +6482,12 @@
   "legendarysurvivaloverhaul:recipes/misc/plaster": {
     "criteria": {
       "has_wool": "2025-09-08 18:43:08 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -5981,9 +6515,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2025-09-08 19:23:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-09-08 19:00:01 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/combat/desert_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
     },
     "done": true
   },
@@ -6095,6 +6641,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-09-08 19:26:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_katana": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
+    },
+    "done": true
+  },
   "atmospheric:recipes/building_blocks/rosewood_planks": {
     "criteria": {
       "has_logs": "2025-09-08 18:55:32 +0000"
@@ -6104,6 +6662,12 @@
   "betternether:recipes/tools/cincinnasite_shovel_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_tomahawk": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },
@@ -6195,6 +6759,12 @@
     },
     "done": true
   },
+  "legendarysurvivaloverhaul:recipes/combat/desert_boots": {
+    "criteria": {
+      "has_leather": "2025-09-08 19:32:27 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/brewing/tag_cauldron": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-09-08 19:00:19 +0000"
@@ -6228,6 +6798,12 @@
   "betterend:recipes/misc/copy_leather_handle_attachment": {
     "criteria": {
       "has_diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-08 19:24:36 +0000"
     },
     "done": true
   },

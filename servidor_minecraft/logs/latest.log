@@ -5404,3 +5404,7 @@ ModdedBiomeSource (1f5ceff1)
 [08Sep2025 19:24:07.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Take Aim, Chaps!]
 [08Sep2025 19:25:19.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [The Bender of the 15th Century]
 [08Sep2025 19:28:18.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [The Fourth Horseman]
+[08Sep2025 19:30:57.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks has made the advancement [Halberdier]
+[08Sep2025 19:33:45.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pavks lost connection: Disconnected
+[08Sep2025 19:33:45.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks left the game
+[08Sep2025 19:33:45.460] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pavks
