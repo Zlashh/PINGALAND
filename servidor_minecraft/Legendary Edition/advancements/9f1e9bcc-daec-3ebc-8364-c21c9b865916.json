@@ -20,6 +20,7 @@
       "rocky_reef": "2025-09-07 03:06:05 +0000",
       "grassy_beach": "2025-09-07 03:05:36 +0000",
       "rocky_meadow": "2025-09-07 03:06:01 +0000",
+      "maple_forest": "2025-09-08 07:04:08 +0000",
       "tropical_river": "2025-09-07 02:53:19 +0000",
       "magnolia_highlands": "2025-09-07 03:19:32 +0000",
       "joshua_desert": "2025-09-07 02:53:29 +0000",
@@ -40,6 +41,7 @@
       "rocky_reef": "2025-09-07 03:06:05 +0000",
       "grassy_beach": "2025-09-07 03:05:36 +0000",
       "rocky_meadow": "2025-09-07 03:06:01 +0000",
+      "maple_forest": "2025-09-08 07:04:08 +0000",
       "tropical_river": "2025-09-07 02:53:19 +0000",
       "magnolia_highlands": "2025-09-07 03:19:32 +0000",
       "joshua_desert": "2025-09-07 02:53:29 +0000",
@@ -10110,6 +10112,72 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-09-08 06:54:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-09-08 07:11:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-09-08 07:13:06 +0000"
     },
     "done": true
   },
