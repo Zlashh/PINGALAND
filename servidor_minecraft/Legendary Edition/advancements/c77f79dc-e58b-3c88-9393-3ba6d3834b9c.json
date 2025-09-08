@@ -3008,6 +3008,7 @@
     "criteria": {
       "baked_potato": "2025-09-08 04:53:49 +0000",
       "bread": "2025-09-07 03:46:23 +0000",
+      "golden_apple": "2025-09-08 07:14:35 +0000",
       "rotten_flesh": "2025-09-07 03:59:12 +0000",
       "golden_carrot": "2025-09-07 03:57:55 +0000"
     },
@@ -6863,6 +6864,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-08 07:16:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_maple_planks": "2025-09-08 07:09:29 +0000"
@@ -6962,6 +6969,12 @@
   "regions_unexplored:recipes/decorations/maple_sign": {
     "criteria": {
       "has_maple_planks": "2025-09-08 07:09:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-09-08 07:17:58 +0000"
     },
     "done": true
   },

@@ -10121,6 +10121,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-09-08 07:22:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2025-09-08 07:22:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_maple_planks": "2025-09-08 07:13:06 +0000"
@@ -10130,6 +10142,18 @@
   "regions_unexplored:recipes/decorations/maple_sign": {
     "criteria": {
       "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-09-08 07:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-09-08 07:22:18 +0000"
     },
     "done": true
   },
@@ -10163,9 +10187,21 @@
     },
     "done": true
   },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2025-09-08 07:21:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_maple_planks": "2025-09-08 07:13:06 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_palisade": {
+    "criteria": {
+      "has_log": "2025-09-08 07:22:18 +0000"
     },
     "done": true
   },
