@@ -116,6 +116,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2025-09-08 05:24:51 +0000",
+      "aspen_glade": "2025-09-08 19:23:27 +0000",
       "dune_beach": "2025-09-08 05:22:15 +0000",
       "gravel_beach": "2025-09-08 05:24:10 +0000"
     },
@@ -587,6 +588,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "joshua_log": "2025-09-08 19:14:01 +0000",
       "willow_log": "2025-09-08 18:41:30 +0000",
       "silver_birch_log": "2025-09-08 05:27:11 +0000"
     },
@@ -3562,6 +3564,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/joshua_button": {
+    "criteria": {
+      "has_joshua_planks": "2025-09-08 19:14:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-09-08 19:00:19 +0000"
@@ -3754,6 +3762,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-09-08 19:19:46 +0000"
+    },
+    "done": false
+  },
   "legendarysurvivaloverhaul:recipes/combat/snow_chestplate": {
     "criteria": {
       "has_wool": "2025-09-08 18:43:08 +0000"
@@ -3883,6 +3897,12 @@
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-09-08 19:16:51 +0000"
     },
     "done": true
   },
@@ -4120,6 +4140,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/joshua_sign": {
+    "criteria": {
+      "has_joshua_planks": "2025-09-08 19:14:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -4264,6 +4290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-09-08 19:16:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-09-08 19:06:03 +0000"
@@ -4384,6 +4416,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/joshua_pressure_plate": {
+    "criteria": {
+      "has_joshua_planks": "2025-09-08 19:14:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-09-08 19:00:01 +0000"
@@ -4492,6 +4530,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_joshua": {
+    "criteria": {
+      "has_item": "2025-09-08 19:14:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_chair": {
     "criteria": {
       "has_white_wool": "2025-09-08 18:43:08 +0000"
@@ -4543,6 +4587,12 @@
   "beachparty:recipes/mini_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_shrub": {
+    "criteria": {
+      "has_joshua_sapling": "2025-09-08 19:14:03 +0000"
     },
     "done": true
   },
@@ -4702,8 +4752,15 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/joshua_wood": {
+    "criteria": {
+      "has_log": "2025-09-08 19:14:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-09-08 19:22:46 +0000",
       "mutton": "2025-09-08 18:45:59 +0000",
       "potato": "2025-09-08 19:07:21 +0000",
       "rotten_flesh": "2025-09-08 18:53:53 +0000",
@@ -4802,6 +4859,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/joshua_stairs": {
+    "criteria": {
+      "has_joshua_planks": "2025-09-08 19:14:21 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
@@ -4817,6 +4880,12 @@
   "bclib:recipes/tools/tag_compass": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/joshua_fence_gate": {
+    "criteria": {
+      "has_joshua_planks": "2025-09-08 19:14:21 +0000"
     },
     "done": true
   },
@@ -4847,6 +4916,12 @@
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-09-08 19:17:42 +0000"
     },
     "done": true
   },
@@ -5189,6 +5264,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-09-08 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/joshua_trapdoor": {
+    "criteria": {
+      "has_joshua_planks": "2025-09-08 19:14:21 +0000"
     },
     "done": true
   },
@@ -5624,6 +5705,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/joshua_door": {
+    "criteria": {
+      "has_joshua_planks": "2025-09-08 19:14:21 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/plum_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
@@ -5744,6 +5831,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/joshua_beard_from_joshua_log": {
+    "criteria": {
+      "has_log": "2025-09-08 19:14:01 +0000"
+    },
+    "done": true
+  },
   "atmospheric:recipes/building_blocks/rosewood_stairs": {
     "criteria": {
       "has_planks": "2025-09-08 18:55:56 +0000"
@@ -5771,6 +5864,12 @@
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-08 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_planks": {
+    "criteria": {
+      "has_logs": "2025-09-08 19:14:01 +0000"
     },
     "done": true
   },
@@ -5972,6 +6071,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/joshua_fence": {
+    "criteria": {
+      "has_joshua_planks": "2025-09-08 19:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-09-08 18:58:08 +0000"
@@ -5999,6 +6104,12 @@
   "betternether:recipes/tools/cincinnasite_shovel_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-09-08 19:00:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-09-08 19:17:42 +0000"
     },
     "done": true
   },
@@ -6035,6 +6146,12 @@
       "minecraft:warm_ocean": "2025-09-08 18:45:42 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-08 19:19:46 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
@@ -6099,6 +6216,12 @@
   "bclib:recipes/decorations/tag_stonecutter": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-09-08 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_slab": {
+    "criteria": {
+      "has_joshua_planks": "2025-09-08 19:14:21 +0000"
     },
     "done": true
   },
