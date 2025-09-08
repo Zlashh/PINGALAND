@@ -5302,3 +5302,7 @@ ModdedBiomeSource (2f974110)
 [08Sep2025 04:01:35.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [08Sep2025 04:04:16.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
 [08Sep2025 04:04:18.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Sep2025 04:12:27.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [A Bigger Blade]
+[08Sep2025 04:18:13.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[08Sep2025 04:18:13.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[08Sep2025 04:18:13.024] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
