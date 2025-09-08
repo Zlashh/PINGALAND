@@ -75,3 +75,29 @@
 [08Sep2025 02:56:24.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
 [08Sep2025 02:56:24.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
 [08Sep2025 02:56:24.868] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
+[08Sep2025 03:14:28.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zlashh[/127.113.86.4:42737] logged in with entity id 93535 at (-1358.300000011921, 44.0, 66.69999998807907)
+[08Sep2025 03:14:28.776] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[08Sep2025 03:14:28.784] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zlashh
+[08Sep2025 03:14:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh joined the game
+[08Sep2025 03:14:29.675] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zlashh (18)
+[08Sep2025 03:14:29.675] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zlashh
+[08Sep2025 03:14:29.707] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[08Sep2025 03:14:29.707] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[08Sep2025 03:14:29.707] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[08Sep2025 03:14:29.707] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[08Sep2025 03:14:29.708] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[08Sep2025 03:14:29.709] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[08Sep2025 03:14:29.709] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[08Sep2025 03:14:47.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Aaron'/93734, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.80] died, message: 'Aaron hit the ground too hard'
+[08Sep2025 03:14:47.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Aaron'/93734, l='ServerLevel[Legendary Edition]', x=-1430.50, y=63.00, z=48.80] died: Aaron fell from a high place
