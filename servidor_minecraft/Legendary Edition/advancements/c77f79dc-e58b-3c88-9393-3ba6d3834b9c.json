@@ -7389,6 +7389,12 @@
     },
     "done": true
   },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-09-11 03:03:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-11 02:36:40 +0000"
@@ -7488,6 +7494,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-09-11 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "has_glaive": "2025-09-11 03:02:00 +0000"
     },
     "done": true
   },
