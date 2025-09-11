@@ -5468,3 +5468,83 @@ ModdedBiomeSource (2cd37a3e)
 [11Sep2025 02:51:47.075] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/26238, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
 [11Sep2025 02:51:47.076] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Veteran Explorer'/26238, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50].
 [11Sep2025 02:51:47.076] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@68962490, net.minecraft.world.item.trading.MerchantOffer@6dd3724d, net.minecraft.world.item.trading.MerchantOffer@2a9ecf50, net.minecraft.world.item.trading.MerchantOffer@3186cfa9, net.minecraft.world.item.trading.MerchantOffer@68eddfad, net.minecraft.world.item.trading.MerchantOffer@1e5a99e7, net.minecraft.world.item.trading.MerchantOffer@42e23133, net.minecraft.world.item.trading.MerchantOffer@451e4541] for HumanoidSlim['Veteran Explorer'/26238, l='ServerLevel[Legendary Edition]', x=352.50, y=65.50, z=215.50]
+[11Sep2025 02:54:15.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> tengo frio
+[11Sep2025 02:54:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> tengo frio
+[11Sep2025 02:54:21.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> quita
+[11Sep2025 02:54:59.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> hay uno que esta arrebatao
+[11Sep2025 02:55:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> por eso puse agua
+[11Sep2025 02:55:22.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> dame hacha
+[11Sep2025 02:55:30.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> o algo para matar
+[11Sep2025 02:55:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> no tengo armas
+[11Sep2025 02:56:19.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> agua
+[11Sep2025 02:57:22.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> dame curo
+[11Sep2025 02:57:25.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> tengo 8 exp
+[11Sep2025 02:57:29.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> 1 corazon
+[11Sep2025 02:57:40.452] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Georgina'/26251, l='ServerLevel[Legendary Edition]', x=354.73, y=62.52, z=199.31] died, message: 'Georgina was slain by Kobold Warrior'
+[11Sep2025 02:57:40.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Georgina'/26251, l='ServerLevel[Legendary Edition]', x=354.73, y=62.52, z=199.31] died: Georgina was slain by Kobold Warrior
+[11Sep2025 02:57:40.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> no tengo
+[11Sep2025 02:57:44.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> tengo manzana
+[11Sep2025 02:57:48.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> me hice doradas
+[11Sep2025 02:57:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zlashh> pero se me acabaron
+[11Sep2025 02:58:36.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Take Aim, Chaps!]
+[11Sep2025 02:58:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [The Bender of the 15th Century]
+[11Sep2025 02:59:01.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pavks lost connection: Disconnected
+[11Sep2025 02:59:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pavks left the game
+[11Sep2025 02:59:01.620] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pavks
+[11Sep2025 03:00:42.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh burned to death
+[11Sep2025 03:00:43.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[11Sep2025 03:00:45.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <skull> xd
+[11Sep2025 03:01:26.986] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:26.986] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[11Sep2025 03:01:26.987] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:26.987] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:26.987] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:01:27.229] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:27.229] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[11Sep2025 03:01:27.230] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:27.230] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:27.230] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:01:27.484] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:27.485] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[11Sep2025 03:01:27.485] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:27.485] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:27.485] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:01:28.085] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:28.085] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[11Sep2025 03:01:28.085] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:28.085] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:28.085] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:01:28.333] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:28.334] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[11Sep2025 03:01:28.334] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:28.334] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:28.334] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:01:29.430] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:29.430] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[11Sep2025 03:01:29.431] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:29.431] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:29.431] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:01:30.584] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:30.585] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[11Sep2025 03:01:30.585] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:30.585] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:30.585] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:01:31.428] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:31.429] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[11Sep2025 03:01:31.429] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:31.429] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:31.429] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:01:32.227] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:32.228] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[11Sep2025 03:01:32.228] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:32.228] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:32.228] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:01:32.886] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Sep2025 03:01:32.886] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[11Sep2025 03:01:32.886] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 rope_arrow
+[11Sep2025 03:01:32.886] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[11Sep2025 03:01:32.886] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Sep2025 03:02:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Straightening the Scythes]
+[11Sep2025 03:03:03.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh burned to death
+[11Sep2025 03:03:05.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[11Sep2025 03:03:36.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [En Garde!]

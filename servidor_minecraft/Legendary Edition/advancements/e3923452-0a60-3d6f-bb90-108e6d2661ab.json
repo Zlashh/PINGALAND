@@ -3939,6 +3939,7 @@
       "baked_potato": "2025-09-08 19:22:46 +0000",
       "mutton": "2025-09-08 18:45:59 +0000",
       "potato": "2025-09-08 19:07:21 +0000",
+      "bread": "2025-09-11 02:51:53 +0000",
       "rotten_flesh": "2025-09-08 18:53:53 +0000",
       "beetroot": "2025-09-08 19:02:41 +0000",
       "carrot": "2025-09-08 18:58:22 +0000"
@@ -6869,9 +6870,39 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-11 02:31:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-09-11 02:57:48 +0000"
     },
     "done": true
   },
@@ -6929,9 +6960,27 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-11 02:31:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
     },
     "done": true
   },
@@ -6983,6 +7032,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-11 02:31:33 +0000"
@@ -6992,6 +7053,18 @@
   "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-09-11 02:31:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
     },
     "done": true
   },
@@ -7016,6 +7089,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-11 02:31:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
     },
     "done": true
   },
@@ -7097,9 +7176,27 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/yellow_cup": {
     "criteria": {
       "has_yellow_cup": "2025-09-11 02:41:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-09-11 02:57:48 +0000"
     },
     "done": true
   },
@@ -7127,6 +7224,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-09-11 02:29:21 +0000"
@@ -7136,6 +7245,12 @@
   "valhelsia_structures:recipes/decorations/yellow_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_color": "2025-09-11 02:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-09-11 02:57:48 +0000"
     },
     "done": true
   },
@@ -7151,15 +7266,33 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_sakura_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-09-11 02:29:21 +0000"
     },
     "done": true
   },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-09-11 02:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-11 02:57:48 +0000"
     },
     "done": true
   },
@@ -7187,6 +7320,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-11 02:31:33 +0000"
@@ -7199,9 +7338,21 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-09-11 02:29:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-09-11 02:57:48 +0000"
     },
     "done": true
   },

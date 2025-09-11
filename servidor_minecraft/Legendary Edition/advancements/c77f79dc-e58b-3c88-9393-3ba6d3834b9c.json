@@ -7341,6 +7341,18 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2025-09-11 02:51:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-09-11 02:51:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-11 02:36:40 +0000"
@@ -7362,6 +7374,12 @@
   "handcrafted:recipes/misc/acacia_desk": {
     "criteria": {
       "has_acacia_desk": "2025-09-11 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-11 02:58:40 +0000"
     },
     "done": true
   },
@@ -7461,11 +7479,23 @@
     },
     "done": true
   },
+  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-09-11 02:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-09-11 02:36:40 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_6": "2025-09-11 02:58:59 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/acacia_desk": {
     "criteria": {
@@ -7485,9 +7515,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-09-11 02:51:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-11 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-09-11 02:58:36 +0000"
     },
     "done": true
   },
@@ -7509,6 +7551,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-09-11 02:54:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-09-11 02:36:40 +0000"
@@ -7518,6 +7566,18 @@
   "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-11 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-09-11 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-09-11 02:51:13 +0000"
     },
     "done": true
   },
@@ -7533,6 +7593,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/misc/witherbone_pole_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-09-11 02:54:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-11 02:36:40 +0000"
@@ -7545,6 +7611,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/misc/witherbone_handle_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-09-11 02:54:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_corner_trim": {
     "criteria": {
       "has_acacia_corner_trim": "2025-09-11 02:36:40 +0000"
@@ -7554,6 +7626,18 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-11 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-11 02:58:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-11 02:58:40 +0000"
     },
     "done": true
   },
@@ -7599,6 +7683,12 @@
     },
     "done": true
   },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-11 02:58:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-11 02:36:40 +0000"
@@ -7629,6 +7719,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-09-11 02:58:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_side_table": {
     "criteria": {
       "has_acacia_side_table": "2025-09-11 02:36:40 +0000"
@@ -7638,6 +7734,12 @@
   "decorative_blocks:recipes/building_blocks/acacia_support": {
     "criteria": {
       "has_plank": "2025-09-11 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-09-11 02:54:50 +0000"
     },
     "done": true
   },
@@ -7698,6 +7800,12 @@
   "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-09-11 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-09-11 02:51:13 +0000"
     },
     "done": true
   },
