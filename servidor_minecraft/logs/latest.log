@@ -5456,3 +5456,27 @@ ModdedBiomeSource (174f6a13)
 [13Sep2025 04:48:16.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [13Sep2025 04:53:45.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Husk
 [13Sep2025 04:53:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:57:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh withered away
+[13Sep2025 04:57:47.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:57:51.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Husk
+[13Sep2025 04:57:54.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:59:22.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh withered away whilst fighting Husk
+[13Sep2025 04:59:24.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:59:38.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Vindicator
+[13Sep2025 04:59:40.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:59:53.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Husk
+[13Sep2025 04:59:54.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:00:14.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Skeleton
+[13Sep2025 05:00:17.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:00:23.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Pillager
+[13Sep2025 05:00:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:00:58.169] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-1612, y=85, z=-514} as the loot table 'ati_structures:chests/archer_storage2' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[13Sep2025 05:01:10.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Vindicator
+[13Sep2025 05:01:12.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:01:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Amateur Archaeologist]
+[13Sep2025 05:01:29.766] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-1603, y=85, z=-524} as the loot table 'ati_structures:chests/archer_storage' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[13Sep2025 05:01:36.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Vindicator
+[13Sep2025 05:01:38.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:03:01.593] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-1603, y=85, z=-524} as the loot table 'ati_structures:chests/archer_storage' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[13Sep2025 05:03:07.944] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-1612, y=85, z=-514} as the loot table 'ati_structures:chests/archer_storage2' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[13Sep2025 05:04:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Voluntary Exile]

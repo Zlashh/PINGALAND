@@ -5765,6 +5765,7 @@
     "criteria": {
       "minecraft:pillager": "2025-09-13 04:03:15 +0000",
       "minecraft:skeleton": "2025-09-08 06:54:37 +0000",
+      "minecraft:vindicator": "2025-09-13 04:59:59 +0000",
       "minecraft:spider": "2025-09-08 07:10:16 +0000",
       "minecraft:wither_skeleton": "2025-09-08 07:40:32 +0000",
       "minecraft:husk": "2025-09-13 04:46:25 +0000",
@@ -7885,6 +7886,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-13 05:04:47 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-09-13 04:02:38 +0000"
@@ -7963,6 +7970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-09-13 04:57:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/socotra_wood": {
     "criteria": {
       "has_log": "2025-09-13 03:50:00 +0000"
@@ -7984,6 +7997,12 @@
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-09-13 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-09-13 05:04:47 +0000"
     },
     "done": true
   },
@@ -8032,6 +8051,12 @@
   "legendarysurvivaloverhaul:recipes/food/carrot_juice": {
     "criteria": {
       "has_carrot": "2025-09-13 04:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-09-13 05:04:47 +0000"
     },
     "done": true
   },
@@ -8098,6 +8123,12 @@
   "valhelsia_furniture:recipes/decorations/gray_mangrove_table": {
     "criteria": {
       "has_gray_carpet": "2025-09-13 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-09-13 05:04:47 +0000"
     },
     "done": true
   },
