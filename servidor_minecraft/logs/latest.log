@@ -5480,3 +5480,50 @@ ModdedBiomeSource (174f6a13)
 [13Sep2025 05:03:01.593] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-1603, y=85, z=-524} as the loot table 'ati_structures:chests/archer_storage' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
 [13Sep2025 05:03:07.944] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-1612, y=85, z=-514} as the loot table 'ati_structures:chests/archer_storage2' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
 [13Sep2025 05:04:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Voluntary Exile]
+[13Sep2025 05:09:02.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was doomed to fall
+[13Sep2025 05:09:04.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:09:10.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh withered away whilst fighting Nightmare Stalker
+[13Sep2025 05:09:12.667] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/32287, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[13Sep2025 05:09:12.670] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/32287, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[13Sep2025 05:09:12.671] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Humanoid (slim)'/32287, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80].
+[13Sep2025 05:09:12.679] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7d736b04, net.minecraft.world.item.trading.MerchantOffer@245bbbdf, net.minecraft.world.item.trading.MerchantOffer@7af78f4a, net.minecraft.world.item.trading.MerchantOffer@60a68acd, net.minecraft.world.item.trading.MerchantOffer@66be696, net.minecraft.world.item.trading.MerchantOffer@7f9730c7, net.minecraft.world.item.trading.MerchantOffer@39dc7da0, net.minecraft.world.item.trading.MerchantOffer@6d7868b4, net.minecraft.world.item.trading.MerchantOffer@34fe6cdb, net.minecraft.world.item.trading.MerchantOffer@72a9638b] for HumanoidSlim['Humanoid (slim)'/32287, l='ServerLevel[Legendary Edition]', x=51.50, y=236.15, z=65.80]
+[13Sep2025 05:09:12.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:09:15.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was doomed to fall by Mutant Zombie
+[13Sep2025 05:09:16.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:09:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Nightmare Stalker
+[13Sep2025 05:09:45.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:09:46.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Pic-A-Nic Basket?]
+[13Sep2025 05:09:46.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Missionary
+[13Sep2025 05:09:47.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:10:36.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Grizzly Bear
+[13Sep2025 05:10:38.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:10:49.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Missionary
+[13Sep2025 05:10:51.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:11:04.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull moved wrongly!
+[13Sep2025 05:11:04.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was blown up by Creeper
+[13Sep2025 05:11:06.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:11:21.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Missionary
+[13Sep2025 05:11:22.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has reached the goal [Exorcism]
+[13Sep2025 05:11:23.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:11:33.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Missionary
+[13Sep2025 05:11:35.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:11:59.160] [Worker-Main-19/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/35948, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[13Sep2025 05:11:59.161] [Worker-Main-19/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/35948, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[13Sep2025 05:11:59.161] [Worker-Main-19/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Veteran Explorer'/35948, l='ServerLevel[Legendary Edition]', x=-2058.50, y=63.13, z=-435.50].
+[13Sep2025 05:11:59.161] [Worker-Main-19/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@3842f35d, net.minecraft.world.item.trading.MerchantOffer@2d995436, net.minecraft.world.item.trading.MerchantOffer@1b4126f4, net.minecraft.world.item.trading.MerchantOffer@5b154353, net.minecraft.world.item.trading.MerchantOffer@74628b77, net.minecraft.world.item.trading.MerchantOffer@133d4929, net.minecraft.world.item.trading.MerchantOffer@159ab3c, net.minecraft.world.item.trading.MerchantOffer@70a76f9f] for HumanoidSlim['Veteran Explorer'/35948, l='ServerLevel[Legendary Edition]', x=-2058.50, y=63.13, z=-435.50]
+[13Sep2025 05:11:59.162] [Worker-Main-19/INFO] [Easy NPC/]: Finalize spawn for HumanoidSlim['Veteran Explorer'/35948, l='ServerLevel[Legendary Edition]', x=-2058.50, y=63.13, z=-435.50] ...
+[13Sep2025 05:11:59.162] [Worker-Main-19/INFO] [Easy NPC/]: Register default action interaction events for HumanoidSlim['Veteran Explorer'/35948, l='ServerLevel[Legendary Edition]', x=-2058.50, y=63.13, z=-435.50] ...
+[13Sep2025 05:12:02.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Peekaboo, I (still) see you!]
+[13Sep2025 05:12:02.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Skeleton
+[13Sep2025 05:12:04.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:12:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Missionary
+[13Sep2025 05:12:28.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:13:12.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was blown up by Creeper
+[13Sep2025 05:13:14.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:15:58.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Nightmare Stalker
+[13Sep2025 05:15:59.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:16:05.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was blown up by Creeper
+[13Sep2025 05:16:07.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:16:27.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh moved wrongly!
+[13Sep2025 05:17:02.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Zombie Villager
+[13Sep2025 05:17:05.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found

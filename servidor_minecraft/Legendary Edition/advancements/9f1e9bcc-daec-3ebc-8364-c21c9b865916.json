@@ -171,6 +171,7 @@
     "criteria": {
       "minecraft:taiga": "2025-09-11 03:24:39 +0000",
       "minecraft:deep_ocean": "2025-09-07 22:25:28 +0000",
+      "minecraft:frozen_river": "2025-09-13 05:10:23 +0000",
       "minecraft:birch_forest": "2025-09-11 03:24:30 +0000",
       "minecraft:beach": "2025-09-07 03:08:43 +0000",
       "environmental:environmental:blossom_woods": "2025-09-07 21:56:50 +0000",
@@ -178,8 +179,10 @@
       "minecraft:river": "2025-09-07 02:50:18 +0000",
       "atmospheric:atmospheric:rainforest_basin": "2025-09-07 03:09:50 +0000",
       "minecraft:cold_ocean": "2025-09-07 22:24:31 +0000",
+      "atmospheric:atmospheric:snowy_scrubland": "2025-09-13 05:10:25 +0000",
       "minecraft:forest": "2025-09-07 21:58:01 +0000",
       "minecraft:deep_cold_ocean": "2025-09-08 02:30:32 +0000",
+      "minecraft:ice_spikes": "2025-09-13 05:10:10 +0000",
       "minecraft:ocean": "2025-09-07 02:07:46 +0000",
       "minecraft:warm_ocean": "2025-09-07 03:08:44 +0000",
       "minecraft:savanna": "2025-09-07 21:58:27 +0000",
@@ -550,6 +553,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "rocky_shrubland": "2025-09-07 03:30:57 +0000",
+      "cold_desert": "2025-09-13 05:10:12 +0000",
       "maple_woods": "2025-09-13 03:39:54 +0000",
       "field": "2025-09-07 02:59:12 +0000",
       "overgrown_greens": "2025-09-07 03:22:21 +0000",
@@ -11237,6 +11241,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-09-13 04:46:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-09-13 05:11:22 +0000"
     },
     "done": true
   },

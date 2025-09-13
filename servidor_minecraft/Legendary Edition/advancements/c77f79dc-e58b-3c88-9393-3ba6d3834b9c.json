@@ -7940,6 +7940,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-09-13 05:09:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_tile_large": {
     "criteria": {
       "has_nether_brick_slab": "2025-09-13 03:59:48 +0000"
@@ -8099,6 +8105,12 @@
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2025-09-13 04:55:08 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_while_blinded": {
+    "criteria": {
+      "kill_while_blinded": "2025-09-13 05:12:02 +0000"
     },
     "done": true
   },
