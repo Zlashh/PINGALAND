@@ -5527,3 +5527,37 @@ ModdedBiomeSource (174f6a13)
 [13Sep2025 05:16:27.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh moved wrongly!
 [13Sep2025 05:17:02.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Zombie Villager
 [13Sep2025 05:17:05.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:17:25.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Nightmare Stalker
+[13Sep2025 05:17:27.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:17:41.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was shot by Mutant Skeleton
+[13Sep2025 05:17:42.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:17:42.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1594, y=74, z=-487}
+[13Sep2025 05:17:46.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh moved wrongly!
+[13Sep2025 05:18:01.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was doomed to fall by Mutant Skeleton
+[13Sep2025 05:18:03.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:18:35.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Skeleton
+[13Sep2025 05:18:37.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:19:20.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was pierced by Necromancer's icicle
+[13Sep2025 05:19:21.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 05:20:16.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[13Sep2025 05:21:48.870] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['Humanoid (slim)'/40530, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] ...
+[13Sep2025 05:21:48.870] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['Humanoid (slim)'/40530, l='ServerLevel[Legendary Edition]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[13Sep2025 05:21:48.871] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Veteran Explorer'/40530, l='ServerLevel[Legendary Edition]', x=-2058.50, y=63.13, z=-435.50].
+[13Sep2025 05:21:48.871] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@21e440a6, net.minecraft.world.item.trading.MerchantOffer@78d65d3f, net.minecraft.world.item.trading.MerchantOffer@50b1d208, net.minecraft.world.item.trading.MerchantOffer@315e72ef, net.minecraft.world.item.trading.MerchantOffer@32bcf512, net.minecraft.world.item.trading.MerchantOffer@78c979df, net.minecraft.world.item.trading.MerchantOffer@26b6d55c, net.minecraft.world.item.trading.MerchantOffer@643d026f] for HumanoidSlim['Veteran Explorer'/40530, l='ServerLevel[Legendary Edition]', x=-2058.50, y=63.13, z=-435.50]
+[13Sep2025 05:22:20.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[13Sep2025 05:22:27.632] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rosy'/40375, l='ServerLevel[Legendary Edition]', x=-2013.46, y=58.00, z=-475.55] died, message: 'Rosy froze to death'
+[13Sep2025 05:22:27.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rosy'/40375, l='ServerLevel[Legendary Edition]', x=-2013.46, y=58.00, z=-475.55] died: Rosy froze to death
+[13Sep2025 05:22:52.638] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Romain'/40585, l='ServerLevel[Legendary Edition]', x=-2086.48, y=58.00, z=-458.64] died, message: 'Romain froze to death'
+[13Sep2025 05:22:52.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Romain'/40585, l='ServerLevel[Legendary Edition]', x=-2086.48, y=58.00, z=-458.64] died: Romain froze to death
+[13Sep2025 05:22:53.896] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['David'/40498, l='ServerLevel[Legendary Edition]', x=-2062.59, y=58.00, z=-475.61] died, message: 'David froze to death'
+[13Sep2025 05:22:53.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['David'/40498, l='ServerLevel[Legendary Edition]', x=-2062.59, y=58.00, z=-475.61] died: David froze to death
+[13Sep2025 05:22:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [What a Deal!]
+[13Sep2025 05:23:05.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [What a Deal!]
+[13Sep2025 05:24:33.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Loise'/40497, l='ServerLevel[Legendary Edition]', x=-2079.69, y=60.46, z=-479.50] died, message: 'Loise froze to death'
+[13Sep2025 05:24:33.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Loise'/40497, l='ServerLevel[Legendary Edition]', x=-2079.69, y=60.46, z=-479.50] died: Loise froze to death
+[13Sep2025 05:25:01.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull lost connection: Disconnected
+[13Sep2025 05:25:01.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull left the game
+[13Sep2025 05:25:01.335] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skull
+[13Sep2025 05:25:09.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[13Sep2025 05:25:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[13Sep2025 05:25:09.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
