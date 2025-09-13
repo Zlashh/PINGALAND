@@ -11159,6 +11159,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-09-13 04:13:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_warped_table": {
     "criteria": {
       "has_gray_carpet": "2025-09-13 04:02:22 +0000"
