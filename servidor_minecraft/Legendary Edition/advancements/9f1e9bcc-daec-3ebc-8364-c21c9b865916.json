@@ -11106,6 +11106,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-09-13 04:39:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_jungle_table": {
     "criteria": {
       "has_gray_carpet": "2025-09-13 04:02:22 +0000"
@@ -11142,6 +11148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-09-13 04:34:48 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_acacia_table": {
     "criteria": {
       "has_gray_carpet": "2025-09-13 04:02:22 +0000"
@@ -11151,6 +11163,12 @@
   "valhelsia_furniture:recipes/decorations/gray_birch_table": {
     "criteria": {
       "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2025-09-13 04:36:12 +0000"
     },
     "done": true
   },

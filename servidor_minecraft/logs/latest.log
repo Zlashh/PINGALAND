@@ -5426,3 +5426,20 @@ ModdedBiomeSource (174f6a13)
 [13Sep2025 04:30:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was struck by lightning
 [13Sep2025 04:30:58.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [13Sep2025 04:32:02.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:38:33.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Halberdier]
+[13Sep2025 04:39:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Junior Summoner]
+[13Sep2025 04:44:16.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Skeleton
+[13Sep2025 04:44:17.049] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Sep2025 04:44:17.050] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[13Sep2025 04:44:17.050] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[13Sep2025 04:44:17.050] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[13Sep2025 04:44:17.050] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[13Sep2025 04:44:18.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:44:43.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull fell from a high place
+[13Sep2025 04:44:46.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:45:42.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Husk
+[13Sep2025 04:45:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:46:00.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Grizzly Bear
+[13Sep2025 04:46:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:46:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Skeleton
+[13Sep2025 04:46:07.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
