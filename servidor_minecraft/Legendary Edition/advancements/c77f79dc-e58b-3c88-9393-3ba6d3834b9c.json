@@ -7858,9 +7858,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-09-13 03:59:48 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/misc/bandage": {
     "criteria": {
       "has_plaster": "2025-09-13 03:51:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-09-13 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-09-13 03:59:48 +0000"
     },
     "done": true
   },
