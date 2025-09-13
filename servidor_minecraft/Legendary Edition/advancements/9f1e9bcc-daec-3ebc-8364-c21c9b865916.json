@@ -11105,6 +11105,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_jungle_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_cherry_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-09-13 03:59:28 +0000"
@@ -11114,6 +11126,54 @@
   "betternether:recipes/building_blocks/nether_tile_large": {
     "criteria": {
       "has_nether_brick_slab": "2025-09-13 03:59:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_birch_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_dark_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_warped_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_mangrove_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-09-13 04:02:22 +0000"
     },
     "done": true
   },

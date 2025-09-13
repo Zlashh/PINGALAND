@@ -5361,3 +5361,24 @@ ModdedBiomeSource (174f6a13)
 [13Sep2025 03:58:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
 [13Sep2025 03:58:29.239] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
 [13Sep2025 04:03:32.990] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 190.6 μs. 211/217 recipes are parallelized.
+[13Sep2025 04:05:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Skeleton
+[13Sep2025 04:05:31.584] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Sep2025 04:05:31.584] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[13Sep2025 04:05:31.585] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[13Sep2025 04:05:31.585] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[13Sep2025 04:05:31.585] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[13Sep2025 04:05:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:05:35.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[13Sep2025 04:06:19.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was doomed to fall by Pillager
+[13Sep2025 04:06:22.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:06:22.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[13Sep2025 04:06:28.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [skull: Teleported skull to Zlashh]
+[13Sep2025 04:07:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull fell from a high place
+[13Sep2025 04:07:16.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:08:05.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Husk
+[13Sep2025 04:08:07.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:08:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Skeleton
+[13Sep2025 04:08:43.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:09:37.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Spider
+[13Sep2025 04:09:39.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 04:13:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Life turned out to be a comedy]
