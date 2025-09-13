@@ -3385,7 +3385,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-09-07 03:50:47 +0000",
-      "maple_log": "2025-09-08 07:07:47 +0000"
+      "maple_log": "2025-09-08 07:07:47 +0000",
+      "socotra_log": "2025-09-13 03:50:00 +0000"
     },
     "done": false
   },
@@ -7818,6 +7819,108 @@
   "spartanweaponry:rapier": {
     "criteria": {
       "has_rapier": "2025-09-11 03:03:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_trapdoor": {
+    "criteria": {
+      "has_socotra_planks": "2025-09-13 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/morphine": {
+    "criteria": {
+      "has_plaster": "2025-09-13 03:51:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_fence": {
+    "criteria": {
+      "has_socotra_planks": "2025-09-13 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_door": {
+    "criteria": {
+      "has_socotra_planks": "2025-09-13 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_slab": {
+    "criteria": {
+      "has_socotra_planks": "2025-09-13 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:this_tree_bleeds_red": {
+    "criteria": {
+      "socotra_log": "2025-09-13 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/bandage": {
+    "criteria": {
+      "has_plaster": "2025-09-13 03:51:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_wood": {
+    "criteria": {
+      "has_log": "2025-09-13 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_branch_from_socotra_log": {
+    "criteria": {
+      "has_log": "2025-09-13 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_pressure_plate": {
+    "criteria": {
+      "has_socotra_planks": "2025-09-13 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "has_pike": "2025-09-13 03:47:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_socotra": {
+    "criteria": {
+      "has_item": "2025-09-13 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_fence_gate": {
+    "criteria": {
+      "has_socotra_planks": "2025-09-13 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_sign": {
+    "criteria": {
+      "has_socotra_planks": "2025-09-13 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_planks": {
+    "criteria": {
+      "has_logs": "2025-09-13 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_stairs": {
+    "criteria": {
+      "has_socotra_planks": "2025-09-13 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/socotra_button": {
+    "criteria": {
+      "has_socotra_planks": "2025-09-13 03:50:02 +0000"
     },
     "done": true
   },

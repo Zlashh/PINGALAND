@@ -5306,3 +5306,55 @@ ModdedBiomeSource (174f6a13)
 [13Sep2025 03:39:22.423] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [13Sep2025 03:42:21.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Cobweb Entanglement]
 [13Sep2025 03:43:01.282] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
+[13Sep2025 03:45:04.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has completed the challenge [Free Willy]
+[13Sep2025 03:45:21.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [The Light In The Darkness]
+[13Sep2025 03:46:04.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[13Sep2025 03:46:04.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[13Sep2025 03:46:04.358] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
+[13Sep2025 03:46:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was slain by Zombie
+[13Sep2025 03:46:54.985] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Sep2025 03:46:54.986] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[13Sep2025 03:46:54.986] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[13Sep2025 03:46:54.986] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[13Sep2025 03:46:54.986] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[13Sep2025 03:46:56.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 03:47:22.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zlashh[/127.203.17.237:34195] logged in with entity id 5178 at (-1040.30892248602, 63.0, -460.67912286805745)
+[13Sep2025 03:47:22.052] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[13Sep2025 03:47:22.069] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zlashh
+[13Sep2025 03:47:22.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh joined the game
+[13Sep2025 03:47:22.853] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zlashh (18)
+[13Sep2025 03:47:22.855] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zlashh
+[13Sep2025 03:47:22.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[13Sep2025 03:47:22.857] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[13Sep2025 03:47:22.858] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[13Sep2025 03:47:22.858] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[13Sep2025 03:47:22.859] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[13Sep2025 03:47:22.859] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[13Sep2025 03:47:22.860] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[13Sep2025 03:47:22.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[13Sep2025 03:47:22.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[13Sep2025 03:47:22.862] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[13Sep2025 03:47:22.862] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[13Sep2025 03:47:22.863] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[13Sep2025 03:47:22.863] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[13Sep2025 03:47:22.864] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[13Sep2025 03:47:22.864] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[13Sep2025 03:47:22.865] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[13Sep2025 03:47:22.866] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[13Sep2025 03:47:22.866] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/PINGALAND/servidor_minecraft/bclib-sync (allowDelete=true)
+[13Sep2025 03:47:25.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Stray
+[13Sep2025 03:47:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 03:47:32.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Pike Off!]
+[13Sep2025 03:47:41.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Stray
+[13Sep2025 03:47:41.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull moved wrongly!
+[13Sep2025 03:47:44.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 03:47:49.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Stray
+[13Sep2025 03:47:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 03:48:15.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Stray
+[13Sep2025 03:48:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 03:48:39.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull was shot by Stray
+[13Sep2025 03:48:41.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[13Sep2025 03:50:00.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [This Tree Bleeds Red]
+[13Sep2025 03:50:01.765] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 9.751 ms. 7230/7999 recipes are parallelized.
+[13Sep2025 03:50:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh died of dehydration
+[13Sep2025 03:50:46.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found

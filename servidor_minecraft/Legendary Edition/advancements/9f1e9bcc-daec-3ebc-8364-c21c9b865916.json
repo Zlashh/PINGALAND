@@ -16,6 +16,7 @@
       "shrubland": "2025-09-08 02:33:24 +0000",
       "pine_taiga": "2025-09-07 02:05:38 +0000",
       "autumnal_maple_forest": "2025-09-08 02:33:03 +0000",
+      "muddy_river": "2025-09-13 03:45:49 +0000",
       "willow_forest": "2025-09-07 22:14:03 +0000",
       "rocky_reef": "2025-09-07 03:06:05 +0000",
       "grassy_beach": "2025-09-07 03:05:36 +0000",
@@ -27,6 +28,7 @@
       "boreal_forest": "2025-09-13 03:39:55 +0000",
       "bamboo_forest": "2025-09-07 03:45:56 +0000",
       "temperate_grove": "2025-09-08 02:33:34 +0000",
+      "gravel_beach": "2025-09-13 03:45:48 +0000",
       "redwoods": "2025-09-07 22:11:50 +0000",
       "rainforest": "2025-09-07 23:52:49 +0000",
       "lupine_plains": "2025-09-07 03:22:54 +0000"
@@ -38,6 +40,7 @@
       "shrubland": "2025-09-08 02:33:24 +0000",
       "pine_taiga": "2025-09-07 02:05:38 +0000",
       "autumnal_maple_forest": "2025-09-08 02:33:03 +0000",
+      "muddy_river": "2025-09-13 03:45:49 +0000",
       "willow_forest": "2025-09-07 22:14:03 +0000",
       "rocky_reef": "2025-09-07 03:06:05 +0000",
       "grassy_beach": "2025-09-07 03:05:36 +0000",
@@ -49,6 +52,7 @@
       "boreal_forest": "2025-09-13 03:39:55 +0000",
       "bamboo_forest": "2025-09-07 03:45:56 +0000",
       "temperate_grove": "2025-09-08 02:33:34 +0000",
+      "gravel_beach": "2025-09-13 03:45:48 +0000",
       "redwoods": "2025-09-07 22:11:50 +0000",
       "rainforest": "2025-09-07 23:52:49 +0000",
       "lupine_plains": "2025-09-07 03:22:54 +0000"
@@ -5315,6 +5319,7 @@
       "minecraft:cave_spider": "2025-09-08 04:24:13 +0000",
       "minecraft:stray": "2025-09-08 04:11:04 +0000",
       "minecraft:zombie": "2025-09-07 04:04:35 +0000",
+      "minecraft:drowned": "2025-09-13 03:44:32 +0000",
       "minecraft:zombie_villager": "2025-09-07 04:04:53 +0000"
     },
     "done": false
@@ -11055,6 +11060,42 @@
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-09-13 03:39:18 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-09-13 03:42:21 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-09-13 03:42:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-09-13 03:43:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-09-13 03:45:04 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-09-13 03:45:21 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-09-13 03:45:21 +0000"
     },
     "done": true
   },
